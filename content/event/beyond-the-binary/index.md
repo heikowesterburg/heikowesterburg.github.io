@@ -18,7 +18,7 @@ abstract: In the themed evening on mental health in LGBTQIA* communities, which 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-11-28T19:30:00Z'
-date_end: '2023-11-23T21:30:00Z'
+#date_end: '2023-11-23T21:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -1,5 +1,5 @@
 ---
-title: BEYOND THE BINARY | Let's Talk About Queer Mental Health!
+title: BEYOND THE BINARY | Let's talk about queer mental health!
 
 event: Interactive, psychological theme night at the Autonomous Queer Office of the University of Cologne
 event_url: https://aquk.uni-koeln.de/home

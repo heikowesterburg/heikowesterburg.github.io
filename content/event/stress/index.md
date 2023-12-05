@@ -1,5 +1,5 @@
 ---
-title: BEYOND THE BINARY | Let's Talk About Queer Mental Health!
+title: MENTAL HEALTH MATTERS ... DOESN'T IT? | Stress, burnout, and resilience in study contexts
 
 event: Welcome-weekend for new scholarship recipients of the German Academic Scholarship Foundation
 event_url: https://studienstiftung.de/en
@@ -13,7 +13,7 @@ address:
   country: Germany
 
 summary: Interactive, psychological input on stress, performance pressure, and resilience during the welcome-weekend for new scholarship recipients.
-abstract: "Mental health matters!" ... Doesn't it? In this interactive input, Nele and Heiko work with participants to address the topics of stress and pressure to perform during their studies; burnout and its early warning signs; and introduce contact points for mental stress situations. The input also critically explores the area of resilience and which facets may strengthen individual resources, and provides some tools for practical implementation in everyday student life. Participants will also gain an insight into the campaign work of "Mind the Mind", a Europe-wide initiative aiming at the destigmatization of mental disorders.
+abstract: "Mental health matters!" ... Doesn't it? In this interactive input, Nele and Heiko work with participants to address the topics of stress and pressure to perform during their studies; burnout and its early warning signs; and introduce contact points for mental stress situations. The input also critically explores the area of resilience and which facets may strengthen individual resources, and provides some tools for practical implementation in everyday student life. Participants will also gain an insight into the campaign work of *Mind the Mind*, a Europe-wide initiative aiming at the destigmatization of mental disorders.../beyond-the-binary
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

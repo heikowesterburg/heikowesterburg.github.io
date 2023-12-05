@@ -61,7 +61,7 @@ skills:
         description: 'R, SPSS, JASP, jamovi, PSPP'
         percent: 90
         icon: chart-line
-        icon_pack: fab
+        icon_pack: fas
       - name: Electronic Data Processing
         description: 'Excel, Word, PowerPoint'
         percent: 100
@@ -77,17 +77,17 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Communication & Interviewing
-        description: ''
+        description: 'Conflict management, negotiation, depth interview, diagnostics'
         percent: 100
         icon: comments
         icon_pack: fas
       - name: Project Management
-        description: ''
+        description: 'Leadership, supervision, monitoring, evaluation'
         percent: 90
         icon: diagram-project
         icon_pack: fas
       - name: Public Speaking
-        description: ''
+        description: 'Rhetorics'
         percent: 100
         icon: quote-right
         icon_pack: fas

@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/heikowes
 url_code: ''
 url_pdf: ''
-url_slides: 'content/slides/beyond-the-binary_resources'
+url_slides: 'content/slides/beyond-the-binary_resources.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: beyond-the-binary_resources
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

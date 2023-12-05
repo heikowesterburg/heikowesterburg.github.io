@@ -204,7 +204,7 @@ sections:
       title: Get in touch
       subtitle:
       text: |-
-        Feel free to send an e-mail. I will get back to you as soon as possible. Looking forward to it!
+        Feel free to send an e-mail. I will get back to you as soon as possible. Looking forward!
       # Contact (add or remove contact options as necessary)
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88
@@ -231,13 +231,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+       # provider: netlify
+       # formspree:
+        #  id:
+       # netlify:
+        #  # Enable CAPTCHA challenge to reduce spam?
+        #  captcha: false
     design:
       columns: '2'
 ---

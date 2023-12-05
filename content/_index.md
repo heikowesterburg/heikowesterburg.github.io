@@ -52,7 +52,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-      - title: Guide
+        - title: Guide
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
           company_logo: 
@@ -103,7 +103,7 @@ sections:
           date_start: '2020-02-01'
           date_end: '2021-09-30'
           description: 
-      - title: Intern
+        - title: Intern
           company: University Hospital Cologne
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
           company_logo: 

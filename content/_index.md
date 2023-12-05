@@ -39,6 +39,19 @@ sections:
           date_start: '2023-12-17'
           date_end: ''
           description: 
+        - title: Intern
+          company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
+          company_url: 'https://www.diversity-institut.info/'
+          company_logo: 
+          location: Cologne
+          date_start: '2023-01-27'
+          date_end: '2023-12-07'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Experience-pedagogical Adviser
           company: Quovadis Gesellschaft für Soziale Bildung UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
@@ -60,41 +73,6 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
-  - block: internships
-    content:
-      title: Internships
-      # Date format for internships
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Internships.
-      #   Add/remove as many `internships` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Intern
-          company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
-          company_url: 'https://www.diversity-institut.info/'
-          company_logo: 
-          location: Cologne
-          date_start: '2023-01-27'
-          date_end: '2023-12-07'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Intern
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -103,6 +81,14 @@ sections:
           date_start: '2020-02-01'
           date_end: '2021-09-30'
           description: 
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
         - title: Intern
           company: University Hospital Cologne
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -116,8 +102,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-      design:
-        columns: 2
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

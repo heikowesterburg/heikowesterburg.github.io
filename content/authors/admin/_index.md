@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Heiko Westerburg
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Heiko Rajiv Garret
+last_name: Westerburg
 
 # Status emoji
 status:
@@ -17,73 +17,79 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: m.sc. psychology (in training) | certified mediator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cologne
+    url: https://www.uni-koeln.de/
+  - name: IDA | Institut für Diversity- und Antidiskriminierungsforschung
+    url: https://www.diversity-institut.info/
+  - name: INeKO | Institut an der Universität zu Köln
+    url: https://ineko-cologne.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include political polarization, diversity and antidiscrimination, destigmatization of mental disorders.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Polarization
+  - Communication and Mediation
+  - Diversity and Antidiscrimination
+  - Open and Metascience
+  - Destigmatization of mental disorders 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc Psychology
+      institution: University of Cologne
+      year: 2024
+    - course: Certified mediator
+      institution: INeKO | Institut an der Universität zu Köln
+      year: 2023
+    - course: BSc Psychology
+      institution: University of Cologne
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
       - name: Data Science
-        description: ''
+        description: 'R, SPSS, JASP, jamovi, PSPP'
+        percent: 90
+        icon: chart-line
+        icon_pack: fab
+      - name: Electronic Data Processing
+        description: 'Excel, Word, PowerPoint'
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Editing
+        description: 'Premiere Pro, Audition, Lightroom'
+        percent: 70
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Interpersonal
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Communication & Interviewing
         description: ''
         percent: 100
-        icon: cat
+        icon: comments
         icon_pack: fas
-      - name: Photography
+      - name: Project Management
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 90
+        icon: diagram-project
+        icon_pack: fas
+      - name: Public Speaking
+        description: ''
+        percent: 100
+        icon: quote-right
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,22 +99,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:heiko.westerburg@outlook.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/heikowes
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/heiko-westerburg
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Heiko Westerburg is a psychologist in training, certified mediator, trauma helper, and relaxation coach based in Cologne. His work focuses on research and application of psychological knowledge in the areas of political psychology and social cognition, stress and performance pressure, as well as diversity and anti-discrimination. 
+
+As a speaker, Heiko convinces with evidence-oriented and practice-relevant workshop concepts, most recently on the topics of "Stress and pressure to perform during studies" for the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes) and "Queer Mental Health" for the Autonomous Queer Office (Autonomes Querreferat) of the University of Cologne. 
+
+In his various fields of activity, it is essential for Heiko to work together in an appreciative, agile and equal manner while maintaining a high level of precision and topicality.
 {style="text-align: justify;"}

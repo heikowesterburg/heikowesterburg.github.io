@@ -23,7 +23,7 @@ role: m.sc. psychology (in training) | certified mediator
 organizations:
   - name: University of Cologne
     url: https://www.uni-koeln.de/
-  - name: IDA | Institut für Diversity- und Antidiskriminierungsforschung
+  - name: IDA | Institut für Diversity- & Antidiskriminierungsforschung
     url: https://www.diversity-institut.info/
   - name: INeKO | Institut an der Universität zu Köln
     url: https://ineko-cologne.com/

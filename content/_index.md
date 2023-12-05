@@ -34,16 +34,32 @@ sections:
         - title: Co-lecturer
           company: INeKO | Institut an der Universität zu Köln
           company_url: 'https://ineko-cologne.com'
-          company_logo: experiences_img/ineko
+          company_logo: 
           location: Cologne
-          date_start: '2021-12-17'
+          date_start: '2023-12-17'
           date_end: ''
+          description: 
+        - title: Experience-pedagogical Adviser
+          company: Quovadis Gesellschaft für Soziale Bildung UG
+          company_url: 'https://www.quovadis-soziale-bildung.de/'
+          company_logo: 
+          location: Heimbach
+          date_start: '2021-09-01'
+          date_end: '2023-12-31'
           description: |2-
-              Responsibilities include:
+              Responsibilities included:
 
               * Analysing
               * Modelling
               * Deploying
+      - title: Guide
+          company: BILDERLEBEN | Psychoanalysis of Art 
+          company_url: 'https://www.bilderleben.net/en/index.html'
+          company_logo: 
+          location: Cologne
+          date_start: '2021-10-01'
+          date_end: ''
+          description: 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -54,6 +70,54 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  - block: internships
+    content:
+      title: Internships
+      # Date format for internships
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Internships.
+      #   Add/remove as many `internships` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Intern
+          company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
+          company_url: 'https://www.diversity-institut.info/'
+          company_logo: 
+          location: Cologne
+          date_start: '2023-01-27'
+          date_end: '2023-12-07'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Intern
+          company: BILDERLEBEN | Psychoanalysis of Art 
+          company_url: 'https://www.bilderleben.net/en/index.html'
+          company_logo: 
+          location: Cologne
+          date_start: '2020-02-01'
+          date_end: '2021-09-30'
+          description: 
+      - title: Intern
+          company: University Hospital Cologne
+          company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
+          company_logo: 
+          location: Cologne
+          date_start: '2020-10-01'
+          date_end: '2021-01-31'
+          description: |2-
+              Responsibilities included:
+
+              * Analysing
+              * Modelling
+              * Deploying
+      design:
+        columns: 2
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

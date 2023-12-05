@@ -73,6 +73,32 @@ sections:
           date_start: '2021-10-01'
           date_end: ''
           description: 
+        - title: Student Assistant
+          company: University Hospital Cologne | Center for Memory Disorders
+          company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
+          company_logo: 
+          location: Cologne
+          date_start: '2021-02-01'
+          date_end: '2021-09-30'
+          description: |2-
+              Responsibilities included:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Intern
+          company: University Hospital Cologne | Center for Memory Disorders
+          company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
+          company_logo: 
+          location: Cologne
+          date_start: '2020-10-01'
+          date_end: '2021-01-31'
+          description: |2-
+              Responsibilities included:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Intern
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -81,13 +107,26 @@ sections:
           date_start: '2020-02-01'
           date_end: '2021-09-30'
           description: 
-        - title: Intern
-          company: University Hospital Cologne
-          company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
+        - title: Research assistant with Bachelor's degree
+          company: University Cologne | Department of Psychology 
+          company_url: 'https://www.hf.uni-koeln.de/2013'
           company_logo: 
           location: Cologne
           date_start: '2020-10-01'
-          date_end: '2021-01-31'
+          date_end: '2023-11-30'
+          description: |2-
+              Responsibilities included:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Student Assistant
+          company: University Cologne | Department of Psychology | Chair of Applied Social Psychology and Decisionmaking
+          company_url: 'https://soccco.uni-koeln.de/groups/dohle'
+          company_logo: 
+          location: Cologne
+          date_start: '2019-10-01'
+          date_end: '2020-03-31'
           description: |2-
               Responsibilities included:
 

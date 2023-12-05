@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/heikowes
 url_code: ''
 url_pdf: ''
-url_slides: '/workspaces/heikowesterburg.github.io/static/uploads/beyond-the-binary_resources.pdf'
+url_slides: 'uploads/beyond-the-binary_resources.pdf'
 url_video: ''
 
 # Markdown Slides (optional).

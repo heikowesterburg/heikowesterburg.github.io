@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Overview
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -129,7 +129,7 @@ sections:
       title: Projects
       filters:
         folders:
-          - project
+          - projects
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).

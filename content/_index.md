@@ -52,6 +52,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Guide
+          company: BILDERLEBEN | Psychoanalysis of Art 
+          company_url: 'https://www.bilderleben.net/en/index.html'
+          company_logo: 
+          location: Cologne
+          date_start: '2021-10-01'
+          date_end: ''
+          description: 
         - title: Experience-pedagogical Adviser
           company: Quovadis Gesellschaft für Soziale Bildung UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
@@ -65,14 +73,6 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Guide
-          company: BILDERLEBEN | Psychoanalysis of Art 
-          company_url: 'https://www.bilderleben.net/en/index.html'
-          company_logo: 
-          location: Cologne
-          date_start: '2021-10-01'
-          date_end: ''
-          description: 
         - title: Student Assistant
           company: University Hospital Cologne | Center for Memory Disorders
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -99,14 +99,6 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Intern
-          company: BILDERLEBEN | Psychoanalysis of Art 
-          company_url: 'https://www.bilderleben.net/en/index.html'
-          company_logo: 
-          location: Cologne
-          date_start: '2020-02-01'
-          date_end: '2021-09-30'
-          description: 
         - title: Research assistant with Bachelor's degree
           company: University Cologne | Department of Psychology 
           company_url: 'https://www.hf.uni-koeln.de/2013'
@@ -120,6 +112,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Intern
+          company: BILDERLEBEN | Psychoanalysis of Art 
+          company_url: 'https://www.bilderleben.net/en/index.html'
+          company_logo: 
+          location: Cologne
+          date_start: '2020-02-01'
+          date_end: '2021-09-30'
+          description: 
         - title: Student Assistant
           company: University Cologne | Department of Psychology | Chair of Applied Social Psychology and Decisionmaking
           company_url: 'https://soccco.uni-koeln.de/groups/dohle'

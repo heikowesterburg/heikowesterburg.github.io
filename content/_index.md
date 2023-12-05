@@ -34,7 +34,7 @@ sections:
         - title: Co-lecturer
           company: INeKO | Institut an der Universität zu Köln
           company_url: 'https://ineko-cologne.com'
-          company_logo: media/experiences_img/ineko
+          company_logo: experiences_img/ineko
           location: Cologne
           date_start: '2021-12-17'
           date_end: ''

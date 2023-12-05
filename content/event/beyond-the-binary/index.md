@@ -8,6 +8,7 @@ location: S58 | Philosophikum
 address:
   street: Universitätsstraße 41
   city: Cologne
+  region: NRW
   postcode: '50931'
   country: Germany
 

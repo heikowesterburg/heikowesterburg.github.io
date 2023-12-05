@@ -99,7 +99,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Research assistant with Bachelor's degree
+        - title: Teaching assistant
           company: University Cologne | Department of Psychology 
           company_url: 'https://www.hf.uni-koeln.de/2013'
           company_logo: 

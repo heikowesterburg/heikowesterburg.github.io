@@ -42,15 +42,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc Psychology
+    - course: MSc Psychology (in training)
       institution: University of Cologne
       year: 2024
     - course: Certified mediator
       institution: INeKO | Institut an der Universität zu Köln
       year: 2023
-    - course: BSc Psychology
+    - course: BSc Psychology | 1.5
       institution: University of Cologne
-      year: 2021
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

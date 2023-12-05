@@ -52,7 +52,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Guide
+        - title: Adviser
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
           company_logo: 

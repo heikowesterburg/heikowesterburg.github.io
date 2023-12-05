@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Heiko Westerburg | he # Website name
+title: Heiko Westerburg # Website name
 baseURL: 'https://heikowesterburg.github.io/' # Website URL
 
 ############################

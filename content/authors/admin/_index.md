@@ -120,9 +120,9 @@ social:
 highlight_name: true
 ---
 
-Heiko Westerburg is a psychologist in training, certified mediator, trauma helper, and relaxation coach based in Cologne. His work focuses on research and application of psychological knowledge in the areas of political psychology and social cognition, stress and performance pressure, as well as diversity and anti-discrimination. 
+I am a psychologist in training, certified mediator, trauma helper, and relaxation coach based in Cologne. My work focuses on research and application of psychological knowledge in the areas of political psychology and social cognition, stress and performance pressure, as well as diversity and anti-discrimination. 
 
-As a speaker, Heiko convinces with evidence-oriented and practice-relevant workshop concepts, most recently on the topics of "Stress and pressure to perform during studies" for the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes) and "Queer Mental Health" for the Autonomous Queer Office (Autonomes Querreferat) of the University of Cologne. 
+As a speaker, I convince with evidence-oriented and practice-relevant workshop concepts, most recently on the topics of "Stress and pressure to perform during studies" for the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes) and "Queer Mental Health" for the Autonomous Queer Office (Autonomes Querreferat) of the University of Cologne. 
 
-In his various fields of activity, it is essential for Heiko to work together in an appreciative, agile and equal manner while maintaining a high level of precision and topicality.
+In my various fields of activity, it is essential for me to work together in an appreciative, agile and equal manner while maintaining a high level of precision and topicality.
 {style="text-align: justify;"}

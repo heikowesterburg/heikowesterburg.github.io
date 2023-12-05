@@ -65,12 +65,12 @@ skills:
       - name: Electronic Data Processing
         description: 'Excel, Word, PowerPoint'
         percent: 100
-        icon: chart-line
+        icon: magnifying-glass-chart
         icon_pack: fas
       - name: Editing
         description: 'Premiere Pro, Audition, Lightroom'
         percent: 70
-        icon: database
+        icon: display
         icon_pack: fas
   - name: Interpersonal
     color: '#eeac02'

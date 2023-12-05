@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2023-12-01T00:00:00Z'
 
 authors: []
-tags: [mental health, stress, performance]
+tags: [mental health, stress, performance, resilience]
 
 # Is this a featured talk? (true/false)
 featured: false

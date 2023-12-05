@@ -12,8 +12,8 @@ address:
   postcode: '50931'
   country: Germany
 
-summary: 'Interactive, psychological theme night at the Autonomous Queer Office (AQUK) of the University of Cologne.'
-abstract: 'In the themed evening on mental health in LGBTQIA* communities, which is still far too little discussed, Nele and Heiko will develop and classify existing frameworks, present figures, data and facts, discuss and open up perspectives. The evening will be rounded off with a psychological art reflection focusing on participants' individual experiences.'
+summary: Interactive, psychological theme night at the Autonomous Queer Office (AQUK) of the University of Cologne.
+abstract: In the themed evening on mental health in LGBTQIA* communities, which is still far too little discussed, Nele and Heiko will develop and classify existing frameworks, present figures, data and facts, discuss and open up perspectives. The evening will be rounded off with a psychological art reflection focusing on participants' individual experiences.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

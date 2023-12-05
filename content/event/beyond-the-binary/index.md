@@ -13,11 +13,7 @@ address:
   country: Germany
 
 summary: Interactive, psychological theme night at the Autonomous Queer Office (AQUK) of the University of Cologne as part of the 4th Mental Health Week of the AStA.
-abstract: 'In the themed evening on mental health in LGBTQIA* communities, which is still far too little discussed, Nele and Heiko will develop and classify existing frameworks, present figures, data and facts, discuss and open up perspectives. 
-
-In addition to frameworks, structural contexts, and facts and figures about psychological research on the cutting edge of diversity and inclusion, psychological science and theory formation will be critically classified - Who defines what? Where do implicit patterns of social difference formation recur in theory, research and practice? 
-
-And, above all - How can psychology contribute to research that is critical of power and sensitive to discrimination, at the same time reflecting diversity and appreciating diverse realities of life? The evening will be rounded off with a psychological art experience using the BILDERLEBEN method (according to Dr. Hans-Christian Heiling), focusing on participants' individual experiences.' 
+abstract: 'In the themed evening on mental health in LGBTQIA* communities, which is still far too little discussed, Nele and Heiko will develop and classify existing frameworks, present figures, data and facts, discuss and open up perspectives. In addition to frameworks, structural contexts, and facts and figures about psychological research on the cutting edge of diversity and inclusion, psychological science and theory formation will be critically contextualized - Who defines what? Where do implicit patterns of social difference formation recur in theory, research and practice? And, above all - How can psychology contribute to research that is critical of power and sensitive to discrimination, at the same time reflecting diversity and appreciating diverse realities of life? The evening will be rounded off with a psychological art experience using the BILDERLEBEN method (according to Dr. Hans-Christian Heiling), focusing on participants' individual experiences.' 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

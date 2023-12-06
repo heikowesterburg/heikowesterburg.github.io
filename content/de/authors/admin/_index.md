@@ -62,12 +62,12 @@ skills:
         percent: 90
         icon: chart-line
         icon_pack: fas
-      - name: Electronic Data Processing
+      - name: Erweiterte Datenverarbeitung
         description: 'Excel, Word, PowerPoint'
         percent: 100
         icon: magnifying-glass-chart
         icon_pack: fas
-      - name: Editing
+      - name: Bild-, Ton-, Videobearbeitung
         description: 'Premiere Pro, Audition, Lightroom'
         percent: 70
         icon: display
@@ -146,8 +146,8 @@ highlight_name: true
 ---
 
 Ich bin angehender Psychologe, geprüfter Mediator, Traumahelfer und Entspannungscoach in Köln. Die Schwerpunkte meiner Arbeit liegen in Forschung und Anwendung psychologischen Wissens in den Bereichen politischer Psychologie und sozialer Kognition, Stress und Leistungsdruck, sowie Diversität und Antidiskriminierung.
-
+{style="text-align: justify;"}
 Als Referent überzeuge ich mit evidenzorientierten und praxisrelevanten Workshopkonzepten, zuletzt zu den Themen „Stress und Leistungsdruck im Studium“ für die Studienstiftung des deutschen Volkes sowie „Queer Mental Health“ für das Autonome Querreferat der Universität zu Köln. 
-
+{style="text-align: justify;"}
 In den diversen Tätigkeitsfeldern ist es mir ein essenzielles Anliegen, bei inhaltlich hoher Präzision und Aktualitätsorientierung wertschätzend, agil und auf Augenhöhe miteinander zu arbeiten.
 {style="text-align: justify;"}

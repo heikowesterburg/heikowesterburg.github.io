@@ -240,7 +240,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: 'moderation.jpg'
+          filename: moderation.jpg
           filters:
             brightness: 1
           parallax: false
@@ -256,8 +256,8 @@ sections:
      # subtitle: ''
      # text: |-
       #  {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+    # design:
+    # columns: '1'
   - block: collection
     id: featured
     content:

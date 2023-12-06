@@ -42,16 +42,16 @@ interests:
 # Education to show in About widget
 education:
   - name: Qualifikationen
-    courses:
-      - course: MSc Psychologie (in Ausbildung)
-        institution: Universität zu Köln
-        year: 2024
-      - course: Geprüfter Mediator
-        institution: INeKO | Institut an der Universität zu Köln
-        year: 2023
-      - course: BSc Psychologie | 1.5
-        institution: Universität zu Köln
-        year: 2022
+  courses:
+    - course: MSc Psychologie (in Ausbildung)
+      institution: Universität zu Köln
+      year: 2024
+    - course: Geprüfter Mediator
+      institution: INeKO | Institut an der Universität zu Köln
+      year: 2023
+    - course: BSc Psychologie | 1.5
+      institution: Universität zu Köln
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

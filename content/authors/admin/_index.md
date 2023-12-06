@@ -92,6 +92,31 @@ skills:
         icon: quote-right
         icon_pack: fas
 
+#languages
+languages:
+  - name: Languages
+    items:
+      - name: German | C2
+        description:
+        percent: 100
+        icon: 
+        icon_pack: fas
+      - name: English | C1/C2
+        description: 
+        percent: 100
+        icon: 
+        icon_pack: fas
+      - name: French | B1
+        description: 
+        percent: 50
+        icon: 
+        icon_pack: fas
+      - name: Spanish | A2
+        description: 
+        percent: 33
+        icon: 
+        icon_pack: fas
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

@@ -11,17 +11,17 @@ sections:
       title: Über
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: Fähigkeiten & Fertigkeiten
+  - block: skills
     content:
-      title: Skills
+      title: Fertigkeiten
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
       columns: '1'
-  - block: Erfahrungen
+  - block: experience
     content:
-      title: Experience
+      title: Erfahrung
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

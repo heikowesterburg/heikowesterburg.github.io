@@ -8,10 +8,10 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Overview
+      title: Über
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: Fähigkeiten & Fertigkeiten
     content:
       title: Skills
       text: ''
@@ -19,7 +19,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+  - block: Erfahrungen
     content:
       title: Experience
       # Date format for experience

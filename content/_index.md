@@ -233,10 +233,29 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title:
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: moderation.jpeg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  #- block: markdown
+   # content:
+     # title: Gallery
+     # subtitle: ''
+     # text: |-
+      #  {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection

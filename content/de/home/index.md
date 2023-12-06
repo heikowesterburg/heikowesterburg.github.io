@@ -295,7 +295,7 @@ sections:
         folders:
           - event
     design:
-      columns: '3'
+      columns: '4'
       view: compact
   - block: tag_cloud
     content:

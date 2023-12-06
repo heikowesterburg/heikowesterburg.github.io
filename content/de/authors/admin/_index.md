@@ -41,6 +41,7 @@ interests:
 
 # Education to show in About widget
 education:
+  name: Qualifikationen
   courses:
     - course: MSc Psychologie (in Ausbildung)
       institution: Universität zu Köln

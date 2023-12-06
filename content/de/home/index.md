@@ -287,6 +287,10 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      text: |-
+        {{% callout note %}}
+        Schnelles Auffinden relevanter Inhalte durch [Filtern von Vorträgen](./talks/).
+        {{% /callout %}}
       filters:
         folders:
           - event

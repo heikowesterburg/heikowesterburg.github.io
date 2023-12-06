@@ -17,8 +17,8 @@ abstract: Kunst hat den Auftrag uns zu unterhalten, aber Kunst aller Art kann no
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-17'
-date_end: '2023-11-18'
+date: '2022-11-17T19:30:00Z'
+#date_end: '2023-11-18'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

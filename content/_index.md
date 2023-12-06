@@ -240,7 +240,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: moderation.jpeg
+          filename: /workspaces/heikowesterburg.github.io/assets/media/moderation.jpg
           filters:
             brightness: 1
           parallax: false

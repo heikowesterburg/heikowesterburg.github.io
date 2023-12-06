@@ -93,29 +93,29 @@ skills:
         icon_pack: fas
 
 #languages
-skills:
-  - name: Languages
-    items:
-      - name: German | C2
-        description:
-        percent: 100
-        icon: 
-        icon_pack: fas
-      - name: English | C1/C2
-        description: 
-        percent: 100
-        icon: 
-        icon_pack: fas
-      - name: French | B1
-        description: 
-        percent: 50
-        icon: 
-        icon_pack: fas
-      - name: Spanish | A2
-        description: 
-        percent: 33
-        icon: 
-        icon_pack: fas
+#skills:
+  #- name: Languages
+    #items:
+      #- name: German | C2
+        #description:
+        #percent: 100
+        #icon: 
+        #icon_pack: fas
+      #- name: English | C1/C2
+        #description: 
+        #percent: 100
+        #icon: 
+        #icon_pack: fas
+      #- name: French | B1
+        #description: 
+        #percent: 50
+        #icon: 
+        #icon_pack: fas
+      #- name: Spanish | A2
+        #description: 
+        #percent: 33
+        #icon: 
+        #icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

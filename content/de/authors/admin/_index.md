@@ -140,7 +140,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: /workspaces/heikowesterburg.github.io/static/uploads/resume.pdf
+    link: /uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

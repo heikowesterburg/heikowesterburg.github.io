@@ -93,7 +93,7 @@ skills:
         icon_pack: fas
 
 #languages
-languages:
+skills:
   - name: Languages
     items:
       - name: German | C2

@@ -19,7 +19,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: languages
+  - block: skills
     content:
       title: Languages
       text: ''

@@ -173,6 +173,15 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
+          date_start: '2021-08-21'
+          description: ''
+          icon:
+          organization: Interdisziplinäres Krisen-Netzwerk (IKN)/NRW | Prof. Dr. em. Karl-J. Kluge
+          organization_url: https://www.researchgate.net/profile/Karl-J-Kluge
+          title: Supervision & Monitoring | Professionsförderndes & nachhaltiges Lernen
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2021-05-17'
           description: ''
           icon:

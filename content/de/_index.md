@@ -141,6 +141,31 @@ sections:
               * Unterstützung weiterer organisatorischer Aufgaben für Forschung und Lehre.
     design:
       columns: '2'
+  - block: experience
+    id: honoraries
+    content: 
+      title: Ehrenamt
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Co-Dozent
+          company: INeKO | Institut an der Universität zu Köln
+          company_url: 'https://ineko-cologne.com'
+          company_logo: 
+          location: Köln
+          date_start: '2023-12-17'
+          date_end: ''
+          description: |2-
+              Aufgaben:
+              * Begleitung von Mediations-Ausbildungsmodulen. 
+    design:
+      columns: '2'
   #- block: collection
     #id: posts
     #content:

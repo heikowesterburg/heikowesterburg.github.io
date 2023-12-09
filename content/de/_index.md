@@ -150,23 +150,36 @@ sections:
         - title: National Coordinator
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
-          company_logo: assets/media/icons/EFPSA_Logo.svg
+          company_logo: 
           location: Köln
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
               Aufgaben:
-              * Begleitung von Mediations-Ausbildungsmodulen. 
+              * Coordinated, supervised, and guided a team of 37 local coordinators from 23 German cities in their tasks.
+              * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
+              * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
+              * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.
+              * Reviewed monthly feedback reports on the progress of the campaign by local coordinators to the umbrella organization.
+              * Trained 120 volunteers to qualify in delivering workshops on mental disorders and handling challenging situations.
+              * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
+              * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
         - title: Studentische Vertretung
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
-          company_logo: assets/media/icons/2022_fsr_transparent.svg
+          company_logo:
           location: Köln
           date_start: '2018-11-01'
           date_end: ''
           description: |2-
               Aufgaben:
-              * Begleitung von Mediations-Ausbildungsmodulen. 
+              * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.
+              * Developed a social media strategy and produced content on Instagram and YouTube, leading to an increase of 400 per cent in followers and a total of over 2000 views, thereby creating unique selling propositions in Germany-wide competition regarding studyability at the Department of Psychology at the University of Cologne.
+              * Supervised, designed and remodeled the web presence of the Psychology Student Council.
+              * Participated in regular department meetings, stimulating exchanges between professoral and student body.
+              * Executed a student workload and satisfaction survey, including correspondence to the department to address solutions in improving student wellbeing and mental health.
+              * Organized and oversaw several student-organized events (graduation party, summer party, department day, general meeting of the student council) with a total of more than 2000 attendees.
+              * Supervised a group of 30 volunteers as member of the executive committee (11/19 - 10/20), organizing weekly meetings and check-ins. 
     design:
       columns: '2'
   - block: accomplishments

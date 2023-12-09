@@ -147,8 +147,8 @@ sections:
       title: Ehrenamt
       date_format: Jan 2006
       items:
-        - title: National Coordinator | Germany
-          company: Mind the Mind | An EFPSA Social Impact Initiative 
+        - title: Nationalkoordination | Deutschland
+          company: Mind the Mind | Eine EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
           company_logo: 
           location: Köln
@@ -164,8 +164,8 @@ sections:
               * Trained 120 volunteers to qualify in delivering workshops on mental disorders and handling challenging situations.
               * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
               * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
-        - title: Local Coordinator | Germany, Cologne
-          company: Mind the Mind | An EFPSA Social Impact Initiative 
+        - title: Lokalkoordination | Deutschland, Köln
+          company: Mind the Mind | Eine EFPSA Social Impact Initiative 
           company_url: 'https://mindthemind-germany.efpsa.org/'
           company_logo: 
           location: Köln

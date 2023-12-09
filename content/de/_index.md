@@ -357,7 +357,11 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Veröffentlichungen
+      text: |-
+        {{% callout note %}}
+        Schnelles Auffinden relevanter Inhalte durch [Filtern von Veröffentlichungen](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -385,7 +389,7 @@ sections:
       title: Ausgewählte Vorträge
       text: |-
         {{% callout note %}}
-        Schnelles Auffinden relevanter Inhalte durch [Filtern von Veröffentlichungen](./event/).
+        Schnelles Auffinden relevanter Inhalte durch [Filtern von Vorträgen](./event/).
         {{% /callout %}}
       filters:
         folders:

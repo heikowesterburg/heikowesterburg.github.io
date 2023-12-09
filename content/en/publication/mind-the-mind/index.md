@@ -1,5 +1,5 @@
 ---
-title: 'Mind the Mind - Zur Entstigmatisierung psychischer Störungen'
+title: 'Mind the Mind - To Combat the Stigma of Mental Disorders'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,10 +25,10 @@ publication_types: ['article-magazine']
 publication: In *report psychologie*
 publication_short: []
 
-abstract: Psychische Störungen weisen nach wie vor hohe Prävalenzen auf und stellen Herausforderungen an den Umgang und die Gestaltung von Politik und Gesundheitswesen. Die europaweit aktive Kampagne *Mind the Mind* des Dachverbands europäischer Psychologiestudierendenvereinigungen (EFPSA) verschreibt sich dem gesellschaftspolitischen Auftrag, ehrenamtlich Aufklärungs- und Entstigmatisierungsarbeit zu leisten, Perspektiven sowie Anlaufstellen aufzuzeigen, und einen Unterschied im gesellschaftlichen Framing und Umgang mit erlebter und beobachteter Betroffenheit zu markieren. Im vorliegenden Beitrag erfolgt eine Vorstellung der Kampagne, ihrer Hintergründe, Umsetzungen, Herausforderungen und Zukunftsperspektiven.
+abstract: Mental disorders continue to be highly prevalent and pose challenges in terms of how they are dealt with and shaped by politics and the healthcare system. The *Mind the Mind* campaign of the European Federation of Psychology Students' Associations (EFPSA), which is active throughout Europe, is dedicated to the socio-political mission of providing voluntary education and destigmatization work, highlighting perspectives and contact points, and marking a difference in the social framing and handling of experienced and observed distress. This article presents the campaign, its background, implementation, challenges, and future prospects.
 
 # Summary. An optional shortened abstract.
-summary: Vorstellung der Kampagne *Mind the Mind* zur Enstigmatisierung psychischer Störungen.
+summary: Presentation of the *Mind the Mind* campaign to destigmatize mental disorders.
 
 tags: [volunteering, destigmatization, mental health]
 

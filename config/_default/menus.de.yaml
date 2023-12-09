@@ -19,11 +19,11 @@ main:
   - #name: Projects
     #url: '#projects'
     #weight: 30
-  - name: Vorträge
-    url: '#talks'
-    weight: 40
   - name: Veröffentlichungen
     url: '#featured'
+    weight: 40
+  - name: Vorträge
+    url: '#talks'
     weight: 50
   - name: Kontakt
     url: '#contact'

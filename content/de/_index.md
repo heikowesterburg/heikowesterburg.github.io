@@ -156,7 +156,7 @@ sections:
           date_end: '2024-07-31'
           description: |2-
               Aufgaben:
-              * Coordinated, supervised, and guided a team of 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
+              * Coordinated, supervised, and guided a team of in sum 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
               * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
               * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
               * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.

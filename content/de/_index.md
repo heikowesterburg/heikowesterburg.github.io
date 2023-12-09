@@ -177,10 +177,10 @@ sections:
           description: ''
           icon:
           organization: Darmstädter Akademie für Gesundheit und Sport
-          organization_url: https://www.datacamp.com
+          organization_url: https://www.dagesp.de/
           title: Entspannungscoach
-          url: https://www.dagesp.de/
-        - certificate_url: 'https://akkreditierungsseminar.de/programmakkreditierung/'
+          url: ''
+        - certificate_url: ''
           date_end: ''
           date_start: '2020-06-25'
           description: ''
@@ -194,7 +194,7 @@ sections:
           date_start: '2019-10-08'
           description: ''
           icon:
-          organization: Studienstiftung des dt. Volkes | sprachraum
+          organization: sprachraum
           organization_url: https://sprachraum.org/
           title: Kommunikation & Rhetorik
           url: ''

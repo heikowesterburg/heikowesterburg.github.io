@@ -328,7 +328,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Featured Talks
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering events](./event/).

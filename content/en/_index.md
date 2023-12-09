@@ -68,7 +68,7 @@ sections:
               * Production of >20 Instagram reels displaying the initiative's work.
               * Team-coordination of appointments.
         - title: Experience-pedagogical Adviser
-          company: Quovadis Gesellschaft für Soziale Bildung UG
+          company: Quovadis Society for Social Education UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
           company_logo: 
           location: Heimbach
@@ -177,7 +177,7 @@ sections:
           date_start: '2021-08-21'
           description: ''
           icon:
-          organization: Interdisciplinary Crisis Network (IKN)/NRW) | Prof. Dr. em. Karl-J. Kluge
+          organization: Interdisciplinary Crisis Network (IKN)/NRW | Prof. Dr. em. Karl-J. Kluge
           organization_url: https://www.researchgate.net/profile/Karl-J-Kluge
           title: Supervision & Monitoring | Professional & sustainable learning
           url: ''

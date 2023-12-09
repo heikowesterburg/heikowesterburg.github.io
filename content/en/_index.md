@@ -124,7 +124,7 @@ sections:
           description: |2-
               Responsibilities included:
               * Facilitated approx. 5 guided psychological art tours in three large museums in Cologne. 
-              * Training in depth-psychological interviewing.
+              * Traversed extensive training in depth-psychological interviewing.
         - title: Student Assistant
           company: University Cologne | Department of Psychology | Chair of Applied Social Psychology and Decisionmaking
           company_url: 'https://soccco.uni-koeln.de/groups/dohle'

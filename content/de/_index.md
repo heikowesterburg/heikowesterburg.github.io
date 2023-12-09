@@ -327,6 +327,21 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: collection
+    id: featured
+    content:
+      title: Veröffentlichungen
+      text: |-
+        {{% callout note %}}
+        Schnelles Auffinden relevanter Inhalte durch [Filtern von Veröffentlichungen](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: markdown
     content:
       title:
@@ -354,21 +369,6 @@ sections:
       #  {{< gallery album="demo" >}}
     # design:
     # columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Veröffentlichungen
-      text: |-
-        {{% callout note %}}
-        Schnelles Auffinden relevanter Inhalte durch [Filtern von Veröffentlichungen](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   #- block: collection
     #content:
       #title: Recent Publications

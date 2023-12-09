@@ -169,7 +169,7 @@ sections:
   - block: experience
     id: honoraries
     content: 
-      title: Ehrenamt
+      title: Honorary Office
       date_format: Jan 2006
       items:
         - title: National Coordinator | Germany

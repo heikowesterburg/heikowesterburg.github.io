@@ -161,7 +161,7 @@ sections:
               * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
               * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.
               * Reviewed monthly feedback reports on the progress of the campaign by local coordinators to the umbrella organization.
-              * Trained 120 volunteers to qualify in delivering workshops on mental disorders and handling challenging situations.
+              * Trained 120 volunteers to qualify in delivering campaign workshops on mental disorders and handling challenging situations.
               * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
               * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
         - title: Local Coordinator | Germany, Cologne

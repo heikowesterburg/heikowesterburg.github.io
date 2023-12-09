@@ -17,7 +17,7 @@ abstract: Art has the task of entertaining us. But art of all kinds can do much 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-17T19:30:00Z'
+date: '2023-11-17T19:30:00Z'
 #date_end: '2023-11-18'
 all_day: false
 

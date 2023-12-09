@@ -145,18 +145,12 @@ sections:
     id: honoraries
     content: 
       title: Ehrenamt
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
         - title: National Coordinator
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
-          company_logo: 
+          company_logo: 'assets/media/icons/brands/media/EFPSA_Logo.jpg
           location: Köln
           date_start: '2022-10-01'
           date_end: ''
@@ -166,7 +160,7 @@ sections:
         - title: Studentische Vertretung
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
-          company_logo: 
+          company_logo: 'assets/media/icons/brands/media/2022_fsr_transparent.png'
           location: Köln
           date_start: '2018-11-01'
           date_end: ''

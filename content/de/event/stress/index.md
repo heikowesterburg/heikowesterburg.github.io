@@ -4,7 +4,7 @@ title: MENTAL HEALTH MATTERS ... DOESN'T IT? | Stress, Burnout und Resilienz im 
 event: Interaktiver, psychologischer Input im Rahmen des Willkommenswochenendes für neue Stipendiat_innen der Studienstiftung des dt. Volkes
 event_url: https://studienstiftung.de/
 
-location: Youth Hostel Cologne-Riehl
+location: DJH Jugendherberge Köln-Riehl
 address:
   street: An d. Schanz 14
   city: Cologne

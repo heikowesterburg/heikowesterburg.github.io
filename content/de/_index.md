@@ -153,32 +153,59 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-11-26'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: 
+          organization: INeKO | Institut an der Universität zu Köln
+          organization_url: https://ineko-cologne.com/
+          title: Geprüfte_r Mediator_in gemäß Kriterien des Bundesverbands Mediation e.V.
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2021-09-17'
+          description: 
+          icon: 
+          organization: Akademie für Resilienz und Traumaberatung A.R.T. e.V.
+          organization_url: https://www.artev.info/
+          title: Traumahelfer
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-05-17'
           description: ''
-          icon: datacamp
-          organization: DataCamp
+          icon:
+          organization: Darmstädter Akademie für Gesundheit und Sport
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: Entspannungscoach
+          url: https://www.dagesp.de/
+        - certificate_url: 'https://akkreditierungsseminar.de/programmakkreditierung/'
+          date_end: ''
+          date_start: '2020-06-25'
+          description: ''
+          icon:
+          organization: akkreditierungsseminar.de
+          organization_url: https://akkreditierungsseminar.de/
+          title: Programmakkreditierung
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-10-08'
+          description: ''
+          icon:
+          organization: Studienstiftung des dt. Volkes | sprachraum
+          organization_url: https://sprachraum.org/
+          title: Kommunikation & Rhetorik
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-10-01'
+          description: ''
+          icon:
+          organization: Klärungswege
+          organization_url: https://akkreditierungsseminar.de/
+          title: Gewaltfreie Kommunikation
           url: ''
     design:
       columns: '2'

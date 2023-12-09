@@ -167,9 +167,9 @@ sections:
           description: |2-
               Aufgaben:
               * Begleitung von Mediations-Ausbildungsmodulen. 
-   design:
+    design:
       columns: '2'
- - block: accomplishments
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Errungen&shy;schaften'

@@ -38,7 +38,9 @@ sections:
           location: Cologne
           date_start: '2023-12-17'
           date_end: ''
-          description: 
+          description: |2-
+              Responsibilities include:
+              * Facilitation of mediation training modules. 
         - title: Intern
           company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
           company_url: 'https://www.diversity-institut.info/'

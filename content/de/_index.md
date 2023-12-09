@@ -20,7 +20,8 @@ sections:
     design:
       columns: '1'
   - block: experience
-    content:
+    id: experience
+    content: 
       title: Erfahrung
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -372,13 +373,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: un-static
-        formspree: 
-          id: https://forms.un-static.com/forms/c6b514f60a2185611da6eef0852a2b2b5a834fb2
-        netlify:
+      #form:
+       # provider: un-static
+       # formspree: 
+        #  id: 
+        #netlify:
         #  # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+         # captcha: true
     design:
       columns: '2'
 ---

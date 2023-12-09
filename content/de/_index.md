@@ -327,7 +327,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Vorträge & Auftritte
       filters:
         folders:
           - event
@@ -336,16 +336,16 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Themen
     design:
       columns: '2'
   - block: contact
-    id: contact
+    id: Kontakt
     content:
-      title: Get in touch
+      title: Schreiben
       subtitle:
       text: |-
-        Feel free to send an e-mail. I will get back to you as soon as possible. Looking forward!
+        Sie können mir gerne eine E-Mail schicken. Ich freue mich!
       # Contact (add or remove contact options as necessary)
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88
@@ -359,7 +359,7 @@ sections:
        # country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'appointment via e-mail'
+        - 'Termine via E-Mail'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       #coordinates:
       #  latitude: '37.4275'
@@ -367,7 +367,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM
+          name: PN
           link: 'https://twitter.com/heikowes'
       # Automatically link email and phone or display as text?
       autolink: true

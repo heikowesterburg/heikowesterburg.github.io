@@ -374,11 +374,11 @@ sections:
       # Email form provider
       form:
         provider: un-static
-        formspree: https://forms.un-static.com/forms/c6b514f60a2185611da6eef0852a2b2b5a834fb2
-          id:
+        formspree: 
+          id: https://forms.un-static.com/forms/c6b514f60a2185611da6eef0852a2b2b5a834fb2
         netlify:
         #  # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

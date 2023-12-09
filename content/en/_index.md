@@ -180,7 +180,7 @@ sections:
           date_start: '2022-10-01'
           date_end: ''
           description: |2-
-              Responsibilities included:
+              Responsibilities:
               * Coordinated, supervised, and guided a team of in sum 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
               * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
               * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
@@ -193,11 +193,11 @@ sections:
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://mindthemind-germany.efpsa.org/'
           company_logo: 
-          location: Köln
+          location: Cologne
           date_start: '2020-10-01'
           date_end: '2021-07-31'
           description: |2-
-              Aufgaben:
+              Responsibilities:
               * Acquired, coordinated, supervised, and guided a team of 60 local volunteers in Cologne, first-time instating the site.
               * Corresponded with schools and organizations, arranging dates for 30 workshops with a total of 600 participants.
               * Provided volunteers with materials, guidelines, and information, including task allocation and scheduling trainings.
@@ -210,7 +210,7 @@ sections:
           date_start: '2018-11-01'
           date_end: ''
           description: |2-
-              Responsibilities included:
+              Responsibilities:
               * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.
               * Developed a social media strategy and produced content on Instagram and YouTube, leading to an increase of 400 per cent in followers and a total of over 2000 views, thereby creating unique selling propositions in Germany-wide competition regarding studyability at the Department of Psychology at the University of Cologne.
               * Supervised, designed and remodeled the web presence of the Psychology Student Council.

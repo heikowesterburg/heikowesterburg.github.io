@@ -339,7 +339,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: tag_cloud
     content:
       title: Themen

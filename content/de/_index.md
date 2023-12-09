@@ -141,29 +141,160 @@ sections:
               * Unterstützung weiterer organisatorischer Aufgaben für Forschung und Lehre.
     design:
       columns: '2'
-  - block: experience
+ - block: experience
     id: honoraries
     content: 
-      title: Ehrenamt
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      title: 'Ehrenamt'
+      subtitle:
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Co-Dozent
-          company: INeKO | Institut an der Universität zu Köln
-          company_url: 'https://ineko-cologne.com'
-          company_logo: 
+        - title: National Coordinator
+          company: Mind the Mind | An EFPSA Social Impact Initiative 
+          company_url: 'https://efpsa.org/services/#social-impact-initiative'
+          company_logo: assets/media/icons/brands/media/EFPSA_Logo.jpg
           location: Köln
-          date_start: '2023-12-17'
-          date_end: ''
+          date_start: '2022-10-01'
+          date_end: '2024-08-01'
           description: |2-
               Aufgaben:
               * Begleitung von Mediations-Ausbildungsmodulen. 
+        - title: Studentische Vertretung
+          company: Fachschaftsrat Psychologie | Universität zu Köln
+          company_url: 'https://blog.uni-koeln.de/fs-psycho/'
+          company_logo: assets/media/icons/brands/media/2022_fsr_transparent.png
+          location: Köln
+          date_start: '2018-11-01'
+          date_end: '2024-09-30'
+          description: |2-
+              Aufgaben:
+              * Begleitung von Mediations-Ausbildungsmodulen. 
+ - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Errungen&shy;schaften'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-11-26'
+          description: ''
+          icon: 
+          organization: INeKO | Institut an der Universität zu Köln
+          organization_url: https://ineko-cologne.com/
+          title: Geprüfte_r Mediator_in gemäß Kriterien des Bundesverbands Mediation e.V.
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-09-17'
+          description: 
+          icon: 
+          organization: Akademie für Resilienz und Traumaberatung A.R.T. e.V.
+          organization_url: https://www.artev.info/
+          title: Traumahelfer
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-08-21'
+          description: ''
+          icon:
+          organization: Interdisziplinäres Krisen-Netzwerk (IKN)/NRW | Prof. Dr. em. Karl-J. Kluge
+          organization_url: https://www.researchgate.net/profile/Karl-J-Kluge
+          title: Supervision & Monitoring | Professionsförderndes & nachhaltiges Lernen
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-05-17'
+          description: ''
+          icon:
+          organization: Darmstädter Akademie für Gesundheit und Sport
+          organization_url: https://www.dagesp.de/
+          title: Entspannungscoach
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-06-25'
+          description: ''
+          icon:
+          organization: akkreditierungsseminar.de
+          organization_url: https://akkreditierungsseminar.de/
+          title: Programmakkreditierung
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-10-08'
+          description: ''
+          icon:
+          organization: sprachraum
+          organization_url: https://sprachraum.org/
+          title: Kommunikation & Rhetorik
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-10-01'
+          description: ''
+          icon:
+          organization: Klärungswege
+          organization_url: https://klaerungswege.com/
+          title: Gewaltfreie Kommunikation
+          url: ''
+    design:
+      columns: '2' 
+ - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Errungen&shy;schaften'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-11-26'
+          description: ''
+          icon: 
+          organization: TEST
+          organization_url: https://ineko-cologne.com/
+          title: Geprüfte_r Mediator_in gemäß Kriterien des Bundesverbands Mediation e.V.
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-09-17'
+          description: 
+          icon: 
+          organization: Akademie für Resilienz und Traumaberatung A.R.T. e.V.
+          organization_url: https://www.artev.info/
+          title: Traumahelfer
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-08-21'
+          description: ''
+          icon:
+          organization: Interdisziplinäres Krisen-Netzwerk (IKN)/NRW | Prof. Dr. em. Karl-J. Kluge
+          organization_url: https://www.researchgate.net/profile/Karl-J-Kluge
+          title: Supervision & Monitoring | Professionsförderndes & nachhaltiges Lernen
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-05-17'
+          description: ''
+          icon:
+          organization: Darmstädter Akademie für Gesundheit und Sport
+          organization_url: https://www.dagesp.de/
+          title: Entspannungscoach
+          url: ''
     design:
       columns: '2'
   #- block: collection

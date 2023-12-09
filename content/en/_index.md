@@ -166,6 +166,60 @@ sections:
               * Begleitung von Mediations-Ausbildungsmodulen. 
     design:
       columns: '2'
+  - block: experience
+    id: honoraries
+    content: 
+      title: Ehrenamt
+      date_format: Jan 2006
+      items:
+        - title: National Coordinator | Germany
+          company: Mind the Mind | An EFPSA Social Impact Initiative 
+          company_url: 'https://efpsa.org/services/#social-impact-initiative'
+          company_logo: 
+          location: Cologne
+          date_start: '2022-10-01'
+          date_end: ''
+          description: |2-
+              Responsibilities included:
+              * Coordinated, supervised, and guided a team of in sum 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
+              * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
+              * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
+              * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.
+              * Reviewed monthly feedback reports on the progress of the campaign by local coordinators to the umbrella organization.
+              * Trained 120 volunteers to qualify in delivering workshops on mental disorders and handling challenging situations.
+              * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
+              * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
+        - title: Local Coordinator | Germany, Cologne
+          company: Mind the Mind | An EFPSA Social Impact Initiative 
+          company_url: 'https://mindthemind-germany.efpsa.org/'
+          company_logo: 
+          location: Köln
+          date_start: '2020-10-01'
+          date_end: '2021-07-31'
+          description: |2-
+              Aufgaben:
+              * Acquired, coordinated, supervised, and guided a team of 60 local volunteers in Cologne, first-time instating the site.
+              * Corresponded with schools and organizations, arranging dates for 30 workshops with a total of 600 participants.
+              * Provided volunteers with materials, guidelines, and information, including task allocation and scheduling trainings.
+              * Gathered local professors for delivering content training sessions on core mental disorders for the volunteers.
+        - title: Member of the Student Council
+          company: Psychology Student Council | University of Cologne
+          company_url: 'https://blog.uni-koeln.de/fs-psycho/'
+          company_logo:
+          location: Cologne
+          date_start: '2018-11-01'
+          date_end: ''
+          description: |2-
+              Responsibilities included:
+              * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.
+              * Developed a social media strategy and produced content on Instagram and YouTube, leading to an increase of 400 per cent in followers and a total of over 2000 views, thereby creating unique selling propositions in Germany-wide competition regarding studyability at the Department of Psychology at the University of Cologne.
+              * Supervised, designed and remodeled the web presence of the Psychology Student Council.
+              * Participated in regular department meetings, stimulating exchanges between professoral and student body.
+              * Executed a student workload and satisfaction survey, including correspondence to the department to address solutions in improving student wellbeing and mental health.
+              * Organized and oversaw several student-organized events (graduation party, summer party, department day, general meeting of the student council) with a total of more than 2000 attendees.
+              * Supervised a group of 30 volunteers as member of the executive committee (11/19 - 10/20), organizing weekly meetings and check-ins. 
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

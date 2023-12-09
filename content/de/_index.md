@@ -156,14 +156,14 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Coordinated, supervised, and guided a team of in sum 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
-              * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
-              * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
-              * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.
-              * Reviewed monthly feedback reports on the progress of the campaign by local coordinators to the umbrella organization.
-              * Trained 120 volunteers to qualify in delivering workshops on mental disorders and handling challenging situations.
-              * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
-              * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
+              * Koordination, Supervision und Begleitung eines Team von insgesamt 37 lokalen Koordinator_innen aus 23 deutschen Städten bei ihren Aufgaben, Monitoring von landesweit insgesamt mehr als 500 Freiwilligen (Volunteers).
+              * Planung und Leitung monatlicher Treffen mit den lokalen Koordinator_innen zur Monitorierung und Beratung über den Fortschritt der Kampagne.
+              * Straffung der organisatorischen Abläufe in Bezug Kampagnenfortschritt und Schnittstellenkommunikation.
+              * Unterstützung der lokalen Koordinator_innen bei der Übersetzung von Materialien, der Kontaktaufnahme mit Institutionen, der Werbung für die Kampagne, der Akquise von Freiwilligen, der Organisation von Workshop-Trainings und Psychopathologievorlesungen sowie der Supervision des Evaluierungsprozesses.
+              * Überprüfung monatlicher Feedback-Berichte der lokalen Koordinator_innen an den Dachverband über den Fortschritt der Kampagne.
+              * Schulung von 120 Freiwilligen zwecks Qualifikation zur Durchführung von Workshops über psychische Störungen.
+              * Veröffentlichung eines fünfseitigen Artikels in Report Psychologie, der Zeitschrift des Berufsverbands Deutscher Psycholog_innen.
+              * Mediationsanaloge Gesprächsführung zwischen lokalen Koordinator_innen, Freiwilligen und Mitarbeiter_innn des Dachverbands bei Differenzen zwecks Stärkung des Zusammenhalts zwischen allen an der Kampagne beteiligten Statusgruppen.
         - title: Lokalkoordination | Deutschland, Köln
           company: Mind the Mind | Eine EFPSA Social Impact Initiative 
           company_url: 'https://mindthemind-germany.efpsa.org/'
@@ -173,10 +173,10 @@ sections:
           date_end: '2021-07-31'
           description: |2-
               Aufgaben:
-              * Acquired, coordinated, supervised, and guided a team of 60 local volunteers in Cologne, first-time instating the site.
-              * Corresponded with schools and organizations, arranging dates for 30 workshops with a total of 600 participants.
-              * Provided volunteers with materials, guidelines, and information, including task allocation and scheduling trainings.
-              * Gathered local professors for delivering content training sessions on core mental disorders for the volunteers.
+              * Akquise, Koordination, Supervision und Anleitung eines Teams von 60 lokalen Freiwilligen in Köln, den Standort neu begründend.
+              * Korrespondenz mit Schulen und Organisationen Terminvereinbarung für 30 Workshops mit insgesamt 600 Teilnehmern, inklusive anschließender Supervision der Freiwilligenerfahrungen.
+              * Bereitstellung von Materialien, Richtlinien und Informationen, einschließlich Aufgabenverteilung und Planung von Schulungen für die Freiwilligen
+              * Akquise lokaler Professor_innen und Expert_innen zur Durchführung inhaltlicher Schulungen zu prävalenten psychischen Störungen für die Freiwilligen.
         - title: Studentische Vertretung
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
@@ -186,13 +186,13 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.
-              * Developed a social media strategy and produced content on Instagram and YouTube, leading to an increase of 400 per cent in followers and a total of over 2000 views, thereby creating unique selling propositions in Germany-wide competition regarding studyability at the Department of Psychology at the University of Cologne.
-              * Supervised, designed and remodeled the web presence of the Psychology Student Council.
-              * Participated in regular department meetings, stimulating exchanges between professoral and student body.
-              * Executed a student workload and satisfaction survey, including correspondence to the department to address solutions in improving student wellbeing and mental health.
-              * Organized and oversaw several student-organized events (graduation party, summer party, department day, general meeting of the student council) with a total of more than 2000 attendees.
-              * Supervised a group of 30 volunteers as member of the executive committee (11/19 - 10/20), organizing weekly meetings and check-ins. 
+              * Moderation von *Round Tables* mit Studierenden- und Fachbereichsvertretungen zur Verbesserung der externen Kommunikation in sensiblen Vertrauensfragen und zwecks Stabilisierung einer konstruktiven Atmosphäre zwischen beteiligten Statusgruppen.
+              * Entwicklung einer Social-Media-Strategie und Produktion von Inhalten auf Instagram und YouTube, die zu einem Anstieg der Follower um 400 Prozent und insgesamt über 2.000 Views führten und damit Alleinstellungsmerkmale im deutschlandweiten Wettbewerb um die Studierbarkeit des Studiums am Fachbereich Psychologie der Universität zu Köln schufen.
+              * Betreuung, Gestaltung und Neugestaltung des Internetauftritts der Fachschaft Psychologie.
+              * Teilnahme an regelmäßigen Fachbereichssitzungen, Förderung des Austausches zwischen Professor_innenen- und Studierendenschaft.
+              * Durchführung einer Umfrage zur Arbeitsbelastung und Zufriedenheit der Studierenden, einschließlich Korrespondenz mit dem Fachbereich, um Lösungen zur Verbesserung des Wohlbefindens und der psychischen Gesundheit der Studierenden zu erarbeiten.
+              * Organisation und Beaufsichtigung zahlreicher studentisch organisierter Veranstaltungen (Abschlussfeier, Sommerfest, Departmenttag, Vollversammlung der Fachschaft) mit insgesamt mehr als 2000 Teilnehmenden.
+              * Betreuung einer Gruppe von 30 Freiwilligen als Vorstand (19.11. - 20.10.), inklusive Organisation wöchentlicher Treffen und Kontrollbesprechungen.
     design:
       columns: '2'
   - block: accomplishments

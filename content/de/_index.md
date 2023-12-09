@@ -328,7 +328,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Vorträge & Auftritte
+      title: Vorträge & Auf&shy;tritte
       filters:
         folders:
           - event

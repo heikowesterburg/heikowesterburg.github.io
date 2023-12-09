@@ -17,7 +17,7 @@ abstract: In diesem interaktiven Input erarbeiten Nele und Heiko mit den Teilneh
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04-22T10:30:00Z'
+date: '2023-04-22T10:30:00Z'
 #date_end: '2022-04-22T12:30:00Z'
 all_day: false
 

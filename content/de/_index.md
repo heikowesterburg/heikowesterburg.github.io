@@ -156,10 +156,10 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Koordination, Supervision und Begleitung eines Team von insgesamt 37 lokalen Koordinator_innen aus 23 deutschen Städten bei ihren Aufgaben, Monitoring von landesweit insgesamt mehr als 500 Freiwilligen (Volunteers).
+              * Koordination, Supervision und Begleitung eines Teams insgesamt 37 lokaler Koordinator_innen aus 23 deutschen Städten bei ihren Aufgaben, Monitoring von landesweit insgesamt mehr als 500 Freiwilligen (Volunteers).
               * Planung und Leitung monatlicher Treffen mit den lokalen Koordinator_innen zur Monitorierung und Beratung über den Fortschritt der Kampagne.
               * Straffung der organisatorischen Abläufe in Bezug Kampagnenfortschritt und Schnittstellenkommunikation.
-              * Unterstützung der lokalen Koordinator_innen bei der Übersetzung von Materialien, der Kontaktaufnahme mit Institutionen, der Werbung für die Kampagne, der Akquise von Freiwilligen, der Organisation von Workshop-Trainings und Psychopathologievorlesungen sowie der Supervision des Evaluierungsprozesses.
+              * Unterstützung der lokalen Koordinator_innen bei der Übersetzung von Materialien, der Kontaktaufnahme mit Institutionen, der Werbung für die Kampagne, der Akquise von Freiwilligen, der Organisation von Workshop-Trainings und Psychopathologievorlesungen sowie der Supervision des lokalen und landesweiten Evaluationsprozesses.
               * Überprüfung monatlicher Feedback-Berichte der lokalen Koordinator_innen an den Dachverband über den Fortschritt der Kampagne.
               * Schulung von 120 Freiwilligen zwecks Qualifikation zur Durchführung von Workshops über psychische Störungen.
               * Veröffentlichung eines fünfseitigen Artikels in Report Psychologie, der Zeitschrift des Berufsverbands Deutscher Psycholog_innen.

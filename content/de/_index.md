@@ -31,36 +31,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Co-lecturer
+        - title: Co-Dozent
           company: INeKO | Institut an der Universität zu Köln
           company_url: 'https://ineko-cologne.com'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2023-12-17'
           date_end: ''
-          description: 
-        - title: Intern
+          description: |2-
+              Aufgaben:
+              * Begleitung von Mediations-Ausbildungsmodulen. 
+        - title: Praktikant
           company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
           company_url: 'https://www.diversity-institut.info/'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2023-01-27'
           date_end: '2023-12-07'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Adviser
-          company: BILDERLEBEN | Psychoanalysis of Art 
+              Aufgaben:
+              * Teilnahme und administrative Begleitung eines 200h Mediations-Ausbildungsganges. 
+              * Teilnahme an fünf und Vorbereitung drei wissenschaftlicher Inputs für Research-Meetings. 
+              * Assistenz in der Durchführung von Diversity- und Inclusion Trainings eines großen Energiekonzerns. 
+        - title: Referent
+          company: BILDERLEBEN | Psychologische Kunstvermittlung
           company_url: 'https://www.bilderleben.net/en/index.html'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2021-10-01'
           date_end: ''
-          description: 
-        - title: Experience-pedagogical Adviser
+          description: |2-
+              Aufgaben:
+              * Durchführung >50 psychologischer Bildbetrachtungen in den drei Kölner Museen Ludwig, Schnütgen, Wallraf-Richartz. 
+              * Akquise, Onboarding, Begleitung und Offboarding von 5 Praktikant_innen. 
+              * Produktion von >20 Instagram Reels zur Arbeit der Initiative.
+              * Terminliche Team-Koordination.
+        - title: Erlebnispädagogischer Referent
           company: Quovadis Gesellschaft für Soziale Bildung UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
           company_logo: 
@@ -68,77 +74,76 @@ sections:
           date_start: '2021-09-01'
           date_end: '2023-12-31'
           description: |2-
-              Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Student Assistant
-          company: University Hospital Cologne | Center for Memory Disorders
+              Aufgaben:
+              * Begleitung von 22 Klassenfahrten, 2 Kinder- und 3 Familienfreizeiten.
+              * Einarbeitung von 6 Kolleg_innen in Durchführung thematisch diverser erlebnispädagogischer Unternehmensprogramme.
+        - title: Studentische Hilfskraft (SHK)
+          company: Uniklinik Köln | Zentrum für Gedächtnisstörungen
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2021-02-01'
           date_end: '2021-09-30'
           description: |2-
-              Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Intern
-          company: University Hospital Cologne | Center for Memory Disorders
+              Aufgaben:
+              * Unterstützung der Methoden-/Steuerungsgruppe in einer großen Literaturrecherche zur Revision der S3-Leitlinie Demenzen. 
+              * Screening rund 5000 Forschungsartikel auf Basis festgelegter Suchbegriffe; Evaluation dieser Artikel zur weiteren Leitlinienverwendung. 
+              * Beurteilung der methodologischen Qualität rund 500 Forschungsartikel entlang NICE-Beurteilungskriterien und CASP-Checklisten.
+        - title: Praktikant
+          company: Uniklinik Köln | Zentrum für Gedächtnisstörungen
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2020-10-01'
           date_end: '2021-01-31'
           description: |2-
-              Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Teaching assistant
-          company: University Cologne | Department of Psychology 
+              Aufgaben:
+              * Durchführung 50 neuropsychologischer Testungen (NPTs), anschließend diagnostische Beurteilung und supervidierte Befundung. 
+              * Zusammenfassung diagnostischer Ergebnisse für interdisziplinäre Fallkonferenzen, inklusive Administration von rund 450 Patient_innenakten. 
+              * Bearbeitung von Stimulusvorlagen eines multinationalen Forschungsvorhabens zu Sozialer Kognition in Personen mit Demenzen. 
+              * Aufbereitung und Analyse neuropsychologischer Studiendaten einer europaweiten Forschungszusammenarbeit an vier Gedächtniszentren. 
+              * Assistenz in der Organisation eines Symposiums am Zentrum für Gedächtnisstörungen, inklusive Koordination von rund 1400 Einladungen. 
+        - title: Tutor
+          company: Universität zu Köln | Department Psychologie
           company_url: 'https://www.hf.uni-koeln.de/2013'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2020-10-01'
           date_end: '2023-11-30'
           description: |2-
-              Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Intern
-          company: BILDERLEBEN | Psychoanalysis of Art 
-          company_url: 'https://www.bilderleben.net/en/index.html'
+              Aufgaben:
+              * Betreuung des inhaltlichen Erstsemester-Bachelor-Einführungsprogramms in vier Kohorten, die Begleitung von ca. 50 Student_innen durch den wissenschaftlichen Erkenntnisgewinnungszyklus in Form von Konzeption, Durchführung, Analyse und Berichtung einer ersten psychologischen Untersuchung. 
+        - title: Praktikant
+          company: BILDERLEBEN | Psychologische Kunstvermittlung
+          company_url: 'https://www.https://bilderleben.net/'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2020-02-01'
           date_end: '2021-09-30'
-          description: 
-        - title: Student Assistant
-          company: University Cologne | Department of Psychology | Chair of Applied Social Psychology and Decisionmaking
+          description: |2-
+              Aufgaben:
+              * Durchführung von ca. 5 psychologischen Bildbetrachtungen in den Kölner Museen Ludwig, Schnütgen, Wallraf-Richartz. 
+              * Schulung in tiefenpsychologischer Gesprächsführung und der Methode des Tiefeninterviews.
+        - title: Studentische Hilfskraft (SHK)
+          company: Universität zu Köln | Department Psychologie | Lehrstuhl für Angewandte Sozialpsychologie und Entscheidungsforschung
           company_url: 'https://soccco.uni-koeln.de/groups/dohle'
           company_logo: 
-          location: Cologne
+          location: Köln
           date_start: '2019-10-01'
           date_end: '2020-03-31'
           description: |2-
-              Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Aufgaben:
+              * Betreuung von drei psychologischen Experimenten, sowohl im Labor als auch online, inklusive Akquise von 400 Versuchspersonen.
+              * Durchführung von drei Studien als Labormanager, sowohl im Labor als auch online, nach standardisierten Ablaufkriterien.
+              * Unterstützung bei der Bereinigung und Aufbereitung von Lehrstuhlforschungsarbeiten mit bis zu 40.000 Datenpunkten für nachfolgende Analysen.
+              * Erstellung einer systematischen Übersicht eines Lehrstuhl-Forschungsprojekts unter Anwendung etablierter Kriterien für transparente und ethische Forschung.
+              * Unterstützung weiterer organisatorischer Aufgaben für Forschung und Lehre.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Errungen&shy;schaften'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

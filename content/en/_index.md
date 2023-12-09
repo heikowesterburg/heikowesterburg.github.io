@@ -40,7 +40,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Facilitation of mediation training modules. 
+              * Co-facilitation of mediation training modules. 
         - title: Intern
           company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
           company_url: 'https://www.diversity-institut.info/'
@@ -50,8 +50,8 @@ sections:
           date_end: '2023-12-07'
           description: |2-
               Responsibilities included:
-              * Participated in and administratively supported a mediation training. 
-              * Participated and contributed scientific inputs in research meetings.
+              * Participated in and administratively supported a 200h mediation training. 
+              * Participated and contributed scientific inputs in 5 research meetings.
               * Assisted in the facilitation of diversity and inclusion trainings for a large energy company.
         - title: Adviser
           company: BILDERLEBEN | Psychoanalysis of Art 
@@ -63,7 +63,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Facilitated >50 guided psychological art tours in three large museums in Cologne. 
-              * Recruitment, onboarding, accompaniment, and offboarding of interns.
+              * Recruitment, onboarding, accompaniment, and offboarding of 5 interns.
               * Production of >20 Instagram reels displaying the initiative's work.
               * Team-coordination of appointments.
         - title: Experience-pedagogical Adviser
@@ -75,7 +75,7 @@ sections:
           date_end: '2023-12-31'
           description: |2-
               Responsibilities included:
-              * Guided 22 class travels, two children’s camps, and three family retreats for diverse educational target groups.
+              * Guided 22 class travels, 2 children’s camps, and 3 family retreats for diverse educational target groups.
               * Familiarized six new colleagues with the implementation and future leading of four thematically diverse pedagogical programmes.
         - title: Student Assistant
           company: University Hospital Cologne | Center for Memory Disorders
@@ -86,8 +86,8 @@ sections:
           date_end: '2021-09-30'
           description: |2-
               Responsibilities included:
-              * Supported the methodology group in a large-scale literature review revising the S3 guideline regarding Dementias.
-              * Screened about 5000 research articles based on predefined search terms; evaluation of articles for further guideline use.
+              * Supported the methodology/steering group in a large-scale literature review revising the S3 guideline *Dementias*.
+              * Screened about 5000 research articles based on predefined search terms; evaluated these articles for further guideline use.
               * Assessed methodological quality of about 500 research articles along the NICE guideline as well as CASP checklists.
         - title: Intern
           company: University Hospital Cologne | Center for Memory Disorders
@@ -101,7 +101,7 @@ sections:
               * Conducted 50 neuropsychological tests, with consequent diagnostic evaluation and supervised report writing.
               * Summarized diagnostical results for interdisciplinary case conferences, including sorting of about 450 patient files.
               * Edited stimulus templates for a multinational research project on social cognition in dementia.
-              * Statistically prepared and analyzed study data from a europewide large-scale multicenter study at four memory centers.
+              * Prepared and analyzed neuropsychological study data from a europewide large-scale multicenter study at four memory centers.
               * Assisted in the organization of a symposium, including the coordination of 1400 invitations.
         - title: Teaching assistant
           company: University Cologne | Department of Psychology 

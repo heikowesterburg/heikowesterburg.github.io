@@ -47,11 +47,10 @@ sections:
           date_start: '2023-01-27'
           date_end: '2023-12-07'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Responsibilities included:
+              * Participated in and administratively supported a mediation training. 
+              * Participated and contributed scientific inputs in research meetings.
+              * Assisted in the facilitation of diversity and inclusion trainings for a large energy company.
         - title: Adviser
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -59,7 +58,12 @@ sections:
           location: Cologne
           date_start: '2021-10-01'
           date_end: ''
-          description: 
+          description: |2-
+              Responsibilities include:
+              * Facilitated >50 guided psychological art tours in three large museums in Cologne. 
+              * Recruitment, onboarding, accompaniment, and offboarding of interns.
+              * Production of >20 Instagram reels displaying the initiative's work.
+              * Team-coordination of appointments.
         - title: Experience-pedagogical Adviser
           company: Quovadis Gesellschaft für Soziale Bildung UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
@@ -69,10 +73,8 @@ sections:
           date_end: '2023-12-31'
           description: |2-
               Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Guided 22 class travels, two children’s camps, and three family retreats for diverse educational target groups.
+              * Familiarized six new colleagues with the implementation and future leading of four thematically diverse pedagogical programmes.
         - title: Student Assistant
           company: University Hospital Cologne | Center for Memory Disorders
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -82,10 +84,9 @@ sections:
           date_end: '2021-09-30'
           description: |2-
               Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Supported the methodology group in a large-scale literature review revising the S3 guideline regarding Dementias.
+              * Screened about 5000 research articles based on predefined search terms; evaluation of articles for further guideline use.
+              * Assessed methodological quality of about 500 research articles along the NICE guideline as well as CASP checklists.
         - title: Intern
           company: University Hospital Cologne | Center for Memory Disorders
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -95,10 +96,11 @@ sections:
           date_end: '2021-01-31'
           description: |2-
               Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Conducted 50 neuropsychological tests, with consequent diagnostic evaluation and supervised report writing.
+              * Summarized diagnostical results for interdisciplinary case conferences, including sorting of about 450 patient files.
+              * Edited stimulus templates for a multinational research project on social cognition in dementia.
+              * Statistically prepared and analyzed study data from a europewide large-scale multicenter study at four memory centers.
+              * Assisted in the organization of a symposium, including the coordination of 1400 invitations.
         - title: Teaching assistant
           company: University Cologne | Department of Psychology 
           company_url: 'https://www.hf.uni-koeln.de/2013'
@@ -108,10 +110,7 @@ sections:
           date_end: '2023-11-30'
           description: |2-
               Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Facilitated the content-related first semester Bachelor's introductory program in four cohorts, guiding approx. 48 students through a scientific knowledge gain cycle by designing, running, analyzing, and reporting their first small psychological study.
         - title: Intern
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -119,7 +118,10 @@ sections:
           location: Cologne
           date_start: '2020-02-01'
           date_end: '2021-09-30'
-          description: 
+          description: |2-
+              Responsibilities included:
+              * Facilitated approx. 5 guided psychological art tours in three large museums in Cologne. 
+              * Training in depth-psychological interviewing.
         - title: Student Assistant
           company: University Cologne | Department of Psychology | Chair of Applied Social Psychology and Decisionmaking
           company_url: 'https://soccco.uni-koeln.de/groups/dohle'
@@ -129,10 +131,11 @@ sections:
           date_end: '2020-03-31'
           description: |2-
               Responsibilities included:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Supervised three psychological experiments, both in the laboratory and online, recruiting 400 participants on site.
+              * Conducted three studies as an investigator, both in the laboratory and online, according to strict procedures.
+              * Assisted in the cleaning and preparation of data with up to 40,000 data points for subsequent analyses.
+              * Prepared a systematic review of a chair research project using established criteria for transparent and ethical research.
+              * Accelerated further organizational support work for research and teaching at the chair.
     design:
       columns: '2'
   - block: accomplishments

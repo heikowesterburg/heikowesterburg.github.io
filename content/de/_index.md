@@ -341,7 +341,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: list
+      view: card
   - block: markdown
     content:
       title:

@@ -1,8 +1,8 @@
 ---
-title: MENTAL HEALTH MATTERS ... DOESN'T IT? | Stress, burnout, and resilience in study contexts
+title: MENTAL HEALTH MATTERS ... DOESN'T IT? | Stress, Burnout und Resilienz im Studium 
 
-event: Welcome-weekend for new scholarship recipients of the German Academic Scholarship Foundation
-event_url: https://studienstiftung.de/en
+event: Interaktiver, psychologischer Input im Rahmen des Willkommenswochenendes für neue Stipendiat_innen der Studienstiftung des dt. Volkes
+event_url: https://studienstiftung.de/
 
 location: Youth Hostel Cologne-Riehl
 address:
@@ -12,8 +12,8 @@ address:
   postcode: '50735'
   country: Germany
 
-summary: Interactive, psychological input on stress, performance pressure, and resilience during the welcome-weekend for new scholarship recipients.
-abstract: In this interactive input, Nele and Heiko work with participants to address the topics of stress and pressure to perform during their studies; burnout and its early warning signs; and introduce contact points for mental stress situations. The input also critically explores the area of resilience and which facets may strengthen individual resources, and provides some tools for practical implementation in everyday student life. Participants will also gain an insight into the campaign work of *Mind the Mind*, a Europe-wide initiative aiming at the destigmatization of mental disorders.
+summary: Interaktiver, psychologischer Input zu Stress, Leistungsdruck, Burnout und Resilienz im Rahmen des Willkommenswochenendes für neue Stipendiat_innen der Studienstiftung des dt. Volkes. 
+abstract: In diesem interaktiven Input erarbeiten Nele und Heiko mit den Teilnehmenden die Themen Stress und Leistungsdruck im Studium, Burnout und seine Frühwarnzeichen, und stellen Anlaufstellen für psychische Belastungssituationen vor. Zudem erfolgt eine kritische Auseinandersetzung mit dem Resilienzkonzept, gefolgt von Vertiefungen, welche Facetten die individuellen Ressourcen stärken können und welche Werkzeuge in der praktischen Umsetzung im Studienalltag unterstützen können. Die Teilnehmenden erhalten außerdem einen Einblick in die Kampagnenarbeit von *Mind the Mind*, einer europaweiten Initiative zur Entstigmatisierung psychischer Störungen.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

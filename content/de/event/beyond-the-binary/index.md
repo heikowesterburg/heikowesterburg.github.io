@@ -1,19 +1,19 @@
 ---
 title: BEYOND THE BINARY | Let's talk about queer mental health!
 
-event: Interactive, psychological theme night at the Autonomous Queer Office of the University of Cologne
+event: Interaktiver, psychologischer Themenabend am Autonomen Queerreferat der Universität zu Köln.
 event_url: https://aquk.uni-koeln.de/home
 
 location: S58 | Philosophikum
 address:
   street: Universitätsstraße 41
-  city: Cologne
+  city: Köln
   region: NRW
   postcode: '50931'
   country: Germany
 
-summary: Interactive, psychological theme night at the Autonomous Queer Office (AQUK) of the University of Cologne as part of the 4th Mental Health Week of the AStA.
-abstract: In the themed evening on mental health in LGBTQIA* communities, which is still far too little discussed, Nele and Heiko will develop and classify existing frameworks, present figures, data and facts, discuss and open up perspectives. In addition to frameworks, structural contexts, and facts and figures about psychological research on the cutting edge of diversity and inclusion, psychological science and theory formation will be critically contextualized - Who defines what? Where do implicit patterns of social difference formation recur in theory, research and practice? And, above all - How can psychology contribute to research that is critical of power and sensitive to discrimination, at the same time reflecting diversity and appreciating diverse realities of life? The evening will be rounded off with a psychological art experience using the BILDERLEBEN method (according to Dr. Hans-Christian Heiling), focusing on participants' individual experiences. 
+summary: Interaktiver, psychologischer Themenabend am Autonomen Queerreferat der Universität zu Köln (AQUK) im Rahmen der 4. Mental Health Week des AStA der Universität zu Köln. 
+abstract: Im Themenabend zur psychischen Gesundheit in LGBTQIA*-Communities werden Nele und Heiko bestehende Rahmenbedingungen entwickeln und einordnen, Zahlen, Daten und Fakten präsentieren, diskutieren und Perspektiven eröffnen. Neben Rahmenbedingungen, strukturellen Kontexten und Zahlen und Fakten zur psychologischen Forschung am Puls der Zeit zu Diversität und Inklusion erfolgt eine kritische Kontextualisierung psychologischer Wissenschaft und Theoriebildung - Wer definiert was? Wo tauchen implizite Muster gesellschaftlicher Differenzbildung in Theorie, Forschung und Praxis auf? Und, vor allem - Wie kann die Psychologie zu einer machtkritischen und diskriminierungssensiblen Forschung beitragen, die gleichzeitig Vielfalt abbildet und unterschiedliche Lebensrealitäten wertschätzt? Abgerundet wird der Abend durch ein psychologische Bildbetrachtung mit der BILDERLEBEN-Methode (nach Dr. Hans-Christian Heiling), bei dem die individuellen Erfahrungen und Erleben der Teilnehmenden im Mittelpunkt stehen.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

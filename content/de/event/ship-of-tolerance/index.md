@@ -1,7 +1,7 @@
 ---
 title: SHIP OF TOLERANCE | Ein "Ich" in Würde und ein "Wir" in Toleranz
 
-event: Eröffnung des Ship of Tolerance im Brückenkopfpark Jülich
+event: Eröffnung des Ship of Tolerance im Brückenkopfpark Jülich.
 event_url: https://www.herzog-magazin.de/nachrichten/top-themen/ein-ich-in-wuerde-und-ein-wir-in-toleranz/
 
 location: Brückenkopfpark Jülich

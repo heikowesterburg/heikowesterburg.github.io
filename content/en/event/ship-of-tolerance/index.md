@@ -1,7 +1,7 @@
 ---
 title: SHIP OF TOLERANCE | An "I" in dignity and a "we" in tolerance
 
-event: Opening of the Ship of Tolerance in the Brückenkopfpark Jülich
+event: Opening of the Ship of Tolerance in the Brückenkopfpark Jülich.
 event_url: https://www.herzog-magazin.de/nachrichten/top-themen/ein-ich-in-wuerde-und-ein-wir-in-toleranz/
 
 location: Brückenkopfpark Jülich
@@ -13,7 +13,7 @@ address:
   country: Germany
 
 summary: Opening of the Ship of Tolerance in the Brückenkopfpark Jülich
-abstract: After Moscow, Rome, London, Zug in Switzerland and Havana, Jülich is the first permanent home port in Germany for the global art project for tolerance and humanity, "Ship of Tolerance" by the Russian artist couple Kabakov. The inauguration ceremony was performed by the Vossenacker "Ex-Art Musiktheater" of the Franziskus-Gymnasium. (Dorothée Schenk)
+abstract: After Moscow, Rome, London, Zug in Switzerland and Havana, Jülich is the first permanent home port in Germany for the global art project for tolerance and humanity, "Ship of Tolerance" by the Russian artist couple Kabakov. The inauguration ceremony was performed by the Vossenack "Ex-Art Musiktheater" of the Franziskus-Gymnasium. (Dorothée Schenk)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

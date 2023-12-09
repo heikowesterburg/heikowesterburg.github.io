@@ -31,7 +31,7 @@ tags: [peace, diversity, tolerance]
 featured: false
 
 image:
-  caption: 'Image credit: [**HERZOG Magazin**]()'
+  caption: 'Image credit: [**HERZOG Magazin**](https://www.herzog-magazin.de/nachrichten/top-themen/ein-ich-in-wuerde-und-ein-wir-in-toleranz/)'
   focal_point: Right
 
 links:

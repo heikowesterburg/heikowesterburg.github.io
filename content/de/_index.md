@@ -164,6 +164,19 @@ sections:
               * Trained 120 volunteers to qualify in delivering workshops on mental disorders and handling challenging situations.
               * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
               * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
+        - title: Local Coordinator | Germany, Cologne
+          company: Mind the Mind | An EFPSA Social Impact Initiative 
+          company_url: 'https://mindthemind-germany.efpsa.org/'
+          company_logo: 
+          location: Köln
+          date_start: '2022-10-01'
+          date_end: ''
+          description: |2-
+              Aufgaben:
+              * Acquired, coordinated, supervised, and guided a team of 60 local volunteers in Cologne, first-time instating the site.
+              * Corresponded with schools and organizations, arranging dates for 30 workshops with a total of 600 participants.
+              * Provided volunteers with materials, guidelines, and information, including task allocation and scheduling trainings.
+              * Gathered local professors for delivering content training sessions on core mental disorders for the volunteers.
         - title: Studentische Vertretung
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'

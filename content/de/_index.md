@@ -147,7 +147,7 @@ sections:
       title: Ehrenamt
       date_format: Jan 2006
       items:
-        - title: National Coordinator
+        - title: National Coordinator | Germany
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
           company_logo: 
@@ -156,7 +156,7 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Coordinated, supervised, and guided a team of 37 local coordinators from 23 German cities in their tasks.
+              * Coordinated, supervised, and guided a team of 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
               * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
               * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
               * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.

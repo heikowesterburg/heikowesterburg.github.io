@@ -10,9 +10,9 @@ main:
   - name: Qualifikationen
     url: '#experience'
     weight: 20
-  #- name: Ehrenamt
-   # url: '#honoraries'
-   # weight: 30
+  - name: Ehrenamt
+    url: '#honoraries'
+    weight: 30
   #- name: Posts
     #url: '#posts'
     #weight: 20

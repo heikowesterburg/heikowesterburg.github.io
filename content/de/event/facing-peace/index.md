@@ -28,7 +28,7 @@ authors: []
 tags: [peace, war, politics]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**MHA/Sarah Maria Berners**](https://www.aachener-zeitung.de/lokales/dueren/huertgenwald/von-zerstoererischem-hass-und-der-hoffnung-auf-frieden_bid-101701617#4)'

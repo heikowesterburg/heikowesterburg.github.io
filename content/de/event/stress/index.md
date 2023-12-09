@@ -28,7 +28,7 @@ authors: []
 tags: [mental health, stress, performance, resilience]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Julian Kallinowski**]()'

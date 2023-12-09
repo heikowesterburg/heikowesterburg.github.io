@@ -150,7 +150,7 @@ sections:
         - title: National Coordinator
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
-          company_logo: media/EFPSA_Logo.svg
+          company_logo: assets/media/icons/EFPSA_Logo.svg
           location: Köln
           date_start: '2022-10-01'
           date_end: ''
@@ -160,7 +160,7 @@ sections:
         - title: Studentische Vertretung
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
-          company_logo: 2022_fsr_transparent.svg
+          company_logo: assets/media/icons/2022_fsr_transparent.svg
           location: Köln
           date_start: '2018-11-01'
           date_end: ''

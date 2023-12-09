@@ -75,7 +75,7 @@ sections:
           date_end: '2023-12-31'
           description: |2-
               Responsibilities included:
-              * Guided 22 class travels, 2 children’s camps, and 3 family retreats for diverse educational target groups.
+              * Guided 22 class travels, 2 children’s camps, and 3 family retreats for diverse educational and socioeconomic target groups.
               * Familiarized six new colleagues with the implementation and future leading of four thematically diverse pedagogical programmes.
         - title: Student Assistant
           company: University Hospital Cologne | Center for Memory Disorders
@@ -134,7 +134,7 @@ sections:
           description: |2-
               Responsibilities included:
               * Supervised three psychological experiments, both in the laboratory and online, recruiting 400 participants on site.
-              * Conducted three studies as an investigator, both in the laboratory and online, according to strict procedures.
+              * Conducted three studies as an investigator, both in the laboratory and online, according to standardized procedures.
               * Assisted in the cleaning and preparation of data with up to 40,000 data points for subsequent analyses.
               * Prepared a systematic review of a chair research project using established criteria for transparent and ethical research.
               * Accelerated further organizational support work for research and teaching at the chair.

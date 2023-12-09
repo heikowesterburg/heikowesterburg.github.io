@@ -52,7 +52,7 @@ sections:
               Aufgaben:
               * Teilnahme und administrative Begleitung eines 200h Mediations-Ausbildungsganges. 
               * Teilnahme an fünf und Vorbereitung drei wissenschaftlicher Inputs für Research-Meetings. 
-              * Assistenz in der Durchführung von Diversity- und Inclusion Trainings eines großen Energiekonzerns. 
+              * Assistenz in der Durchführung von Diversity- und Inclusion Trainings in einem großen Energiekonzerns. 
         - title: Referent
           company: BILDERLEBEN | Psychologische Kunstvermittlung
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -75,8 +75,8 @@ sections:
           date_end: '2023-12-31'
           description: |2-
               Aufgaben:
-              * Begleitung von 22 Klassenfahrten, 2 Kinder- und 3 Familienfreizeiten.
-              * Einarbeitung von 6 Kolleg_innen in Durchführung thematisch diverser erlebnispädagogischer Unternehmensprogramme.
+              * Begleitung von 22 Klassenfahrten, 2 Kinder- und 3 Familienfreizeiten mit unterschiedlichen pädagogischen und sozioökonomischen Zielgruppen.
+              * Einarbeitung von 6 Kolleg_innen in der Durchführung thematisch diverser erlebnispädagogischer Programme.
         - title: Studentische Hilfskraft (SHK)
           company: Uniklinik Köln | Zentrum für Gedächtnisstörungen
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'

@@ -328,7 +328,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Ausgewählte Auftritte
+      title: Ausgewählte Vorträge
       text: |-
         {{% callout note %}}
         Schnelles Auffinden relevanter Inhalte durch [Filtern von Veröffentlichungen](./event/).

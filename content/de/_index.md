@@ -150,7 +150,7 @@ sections:
         - title: National Coordinator
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
-          company_logo: 'assets/media/icons/brands/media/EFPSA_Logo.jpg
+          company_logo: 'assets/media/icons/brands/media/EFPSA_Logo.jpg'
           location: Köln
           date_start: '2022-10-01'
           date_end: ''

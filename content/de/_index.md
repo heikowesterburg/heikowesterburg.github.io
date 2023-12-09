@@ -153,7 +153,7 @@ sections:
           company_logo: 
           location: Köln
           date_start: '2022-10-01'
-          date_end: ''
+          date_end: '2024-07-31'
           description: |2-
               Aufgaben:
               * Coordinated, supervised, and guided a team of 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
@@ -169,8 +169,8 @@ sections:
           company_url: 'https://mindthemind-germany.efpsa.org/'
           company_logo: 
           location: Köln
-          date_start: '2022-10-01'
-          date_end: ''
+          date_start: '2020-10-01'
+          date_end: '2021-07-31'
           description: |2-
               Aufgaben:
               * Acquired, coordinated, supervised, and guided a team of 60 local volunteers in Cologne, first-time instating the site.
@@ -183,7 +183,7 @@ sections:
           company_logo:
           location: Köln
           date_start: '2018-11-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
               Aufgaben:
               * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.

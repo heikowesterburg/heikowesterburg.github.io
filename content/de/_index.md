@@ -191,7 +191,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2020-10-08'
+          date_start: '2019-10-08'
           description: ''
           icon:
           organization: Studienstiftung des dt. Volkes | sprachraum
@@ -200,7 +200,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2020-10-01'
+          date_start: '2019-10-01'
           description: ''
           icon:
           organization: Klärungswege

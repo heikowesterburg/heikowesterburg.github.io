@@ -153,7 +153,7 @@ sections:
           company_logo: 
           location: Köln
           date_start: '2022-10-01'
-          date_end: '2024-07-31'
+          date_end: ''
           description: |2-
               Aufgaben:
               * Coordinated, supervised, and guided a team of in sum 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
@@ -183,7 +183,7 @@ sections:
           company_logo:
           location: Köln
           date_start: '2018-11-01'
-          date_end: '2024-09-30'
+          date_end: ''
           description: |2-
               Aufgaben:
               * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.

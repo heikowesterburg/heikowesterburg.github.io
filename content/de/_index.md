@@ -151,7 +151,7 @@ sections:
         - title: National Coordinator
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
-          company_logo: assets/media/icons/brands/media/EFPSA_Logo.jpg
+          company_logo: 'assets/media/icons/brands/media/EFPSA_Logo.jpg'
           location: Köln
           date_start: '2022-10-01'
           date_end: '2024-08-01'
@@ -161,13 +161,15 @@ sections:
         - title: Studentische Vertretung
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
-          company_logo: assets/media/icons/brands/media/2022_fsr_transparent.png
+          company_logo: 'assets/media/icons/brands/media/2022_fsr_transparent.png'
           location: Köln
           date_start: '2018-11-01'
           date_end: '2024-09-30'
           description: |2-
               Aufgaben:
               * Begleitung von Mediations-Ausbildungsmodulen. 
+    design:
+      columns: '2'
  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

@@ -154,7 +154,7 @@ sections:
           company_logo: 'assets/media/icons/brands/media/EFPSA_Logo.jpg'
           location: Köln
           date_start: '2022-10-01'
-          date_end: '2024-08-01'
+          date_end: ''
           description: |2-
               Aufgaben:
               * Begleitung von Mediations-Ausbildungsmodulen. 
@@ -164,7 +164,7 @@ sections:
           company_logo: 'assets/media/icons/brands/media/2022_fsr_transparent.png'
           location: Köln
           date_start: '2018-11-01'
-          date_end: '2024-09-30'
+          date_end: ''
           description: |2-
               Aufgaben:
               * Begleitung von Mediations-Ausbildungsmodulen. 

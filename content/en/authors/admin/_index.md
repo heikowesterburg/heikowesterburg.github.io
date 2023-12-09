@@ -23,9 +23,9 @@ role: m.sc. psychology (in training) | certified mediator
 organizations:
   - name: University of Cologne
     url: https://www.uni-koeln.de/
-  - name: IDA | Institut für Diversity- & Antidiskriminierungsforschung
+  - name: IDA | Institute for Diversity & Anti-Discrimination Research
     url: https://www.diversity-institut.info/
-  - name: INeKO | Institut an der Universität zu Köln
+  - name: INeKO | Institute at the University of Cologne
     url: https://ineko-cologne.com/
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +46,7 @@ education:
       institution: University of Cologne
       year: 2024
     - course: Certified mediator
-      institution: INeKO | Institut an der Universität zu Köln
+      institution: INeKO | Institute at the University of Cologne
       year: 2023
     - course: BSc Psychology | 1.5
       institution: University of Cologne

@@ -214,7 +214,7 @@ sections:
           description: ''
           icon:
           organization: Klärungswege
-          organization_url: https://akkreditierungsseminar.de/
+          organization_url: https://klaerungswege.com/
           title: Gewaltfreie Kommunikation
           url: ''
     design:

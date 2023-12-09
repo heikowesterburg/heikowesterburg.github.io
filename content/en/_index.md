@@ -33,7 +33,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Co-lecturer
-          company: INeKO | Institut an der Universität zu Köln
+          company: INeKO | Institute at the University of Cologne
           company_url: 'https://ineko-cologne.com'
           company_logo: 
           location: Cologne
@@ -43,7 +43,7 @@ sections:
               Responsibilities include:
               * Co-facilitation of mediation training modules. 
         - title: Intern
-          company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
+          company: IDA | Institute for Diversity & Anti-Discrimination-Research
           company_url: 'https://www.diversity-institut.info/'
           company_logo: 
           location: Cologne
@@ -159,36 +159,36 @@ sections:
           date_start: '2021-11-26'
           description: ''
           icon: 
-          organization: INeKO | Institut an der Universität zu Köln
+          organization: INeKO | Institute at the University of Cologne
           organization_url: https://ineko-cologne.com/
-          title: Geprüfte_r Mediator_in gemäß Kriterien des Bundesverbands Mediation e.V.
+          title: Certified Mediator according to the criteria of the Bundesverband Mediation e.V.
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2021-09-17'
           description: 
           icon: 
-          organization: Akademie für Resilienz und Traumaberatung A.R.T. e.V.
+          organization: Academy for Resilience and Trauma Counseling A.R.T. e.V.
           organization_url: https://www.artev.info/
-          title: Traumahelfer
+          title: Trauma Helper
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2021-08-21'
           description: ''
           icon:
-          organization: Interdisziplinäres Krisen-Netzwerk (IKN)/NRW | Prof. Dr. em. Karl-J. Kluge
+          organization: Interdisciplinary Crisis Network (IKN)/NRW) | Prof. Dr. em. Karl-J. Kluge
           organization_url: https://www.researchgate.net/profile/Karl-J-Kluge
-          title: Supervision & Monitoring | Professionsförderndes & nachhaltiges Lernen
+          title: Supervision & Monitoring | Professional & sustainable learning
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2021-05-17'
           description: ''
           icon:
-          organization: Darmstädter Akademie für Gesundheit und Sport
+          organization: Darmstadt Academy for Health and Sport (DAGeSp)
           organization_url: https://www.dagesp.de/
-          title: Entspannungscoach
+          title: Relaxation Coach
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -197,7 +197,7 @@ sections:
           icon:
           organization: akkreditierungsseminar.de
           organization_url: https://akkreditierungsseminar.de/
-          title: Programmakkreditierung
+          title: Accreditation of study programmes
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -206,7 +206,7 @@ sections:
           icon:
           organization: sprachraum
           organization_url: https://sprachraum.org/
-          title: Kommunikation & Rhetorik
+          title: Communication & Rhetorics
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -214,8 +214,8 @@ sections:
           description: ''
           icon:
           organization: Klärungswege
-          organization_url: https://akkreditierungsseminar.de/
-          title: Gewaltfreie Kommunikation
+          organization_url: https://klaerungswege.com/
+          title: Nonviolent Communication
           url: ''
     design:
       columns: '2'

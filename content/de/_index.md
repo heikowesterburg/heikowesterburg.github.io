@@ -329,6 +329,10 @@ sections:
     id: talks
     content:
       title: Vorträge & Auf&shy;tritte
+      text: |-
+        {{% callout note %}}
+        Schnelles Auffinden relevanter Inhalte durch [Filtern von Veröffentlichungen](./event/).
+        {{% /callout %}}
       filters:
         folders:
           - event

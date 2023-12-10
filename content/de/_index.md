@@ -461,11 +461,11 @@ sections:
       #coordinates:
       #  latitude: '37.4275'
       #  longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: PN
-          link: 'https://twitter.com/heikowes'
+      #contact_links:
+       # - icon: twitter
+         # icon_pack: fab
+         # name: PN
+         # link: 'https://twitter.com/heikowes'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

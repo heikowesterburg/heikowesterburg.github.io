@@ -1,5 +1,5 @@
 ---
-title: 'Eine Beschreibung des Bilderlebens aus dem Museum Ludwig in Köln'
+title: 'A description of BILDERLEBEN from the Museum Ludwig in Cologne'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,10 +27,10 @@ publication_types: ['article-magazine']
 publication: In *anders 38/2020*
 publication_short: []
 
-abstract: Mit einer Gruppe Studierender der Initiative [BILDERLEBEN](https://bilderleben.net) unterzog Hans-Christian Heiling das Bild von Wassily Kandinsky "Weiße Linie" (1920) einer kunstpsychologischen Untersuchung. Die Beschreibung fand am 2. September 2020 vor dem Bild im [Museum Ludwig](https://www.museum-ludwig.de) in Köln statt.
+abstract: Together with a group of students from the initiative [BILDERLEBEN](https://bilderleben.net), Hans-Christian Heiling subjected Wassily Kandinsky's painting "White Line" (1920) to an art-psychological examination. The description took place on September 2, 2020 in front of the painting at [Museum Ludwig](https://www.museum-ludwig.de) in Cologne.
 
 # Summary. An optional shortened abstract.
-summary: (Text - Redaktion "anders") Kunst ist die zugespitzte Spiegelung des Lebenskampfes in einem Rahmen. Wilhelm Salber verstand sie als einen Übergangsbereich, der aus dem Alltag erwächst, dessen "harte" Konstruktionsprobleme über Wirkungsprozesse erfahrbar macht und auf diesem Wege auf die Behandlung des All-Tags zurückwirkt. Kunst findet nicht in einem "Schonraum" statt, ist nicht mit "Phantasie" zu bezeichnen. Kunst ist näher dran an den banalen Fragen des Lebens als es diee Formen ihrer Präsentation oft nahelegen. Die in diesem Heft veröffentlichten Texte kreisen das Leitthema "Hard As Art Can" aus unterschiedlichen Blickwinkeln ein.
+summary: (Text - Editorial office, author's translation) Art is the sharpened reflection of the struggle of life in a frame. Wilhelm Salber understood it as a transitional area that grows out of everyday life, makes its "hard" construction problems tangible through processes of action and in this way has an effect on the treatment of everyday life. Art does not take place in a "safe space" and cannot be described as "fantasy". Art is closer to the banal questions of life than the forms of its presentation often suggest. The texts published in this issue explore the central theme of "Hard As Art Can" from different perspectives.
 
 tags: [art, morphological]
 

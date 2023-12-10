@@ -22,7 +22,7 @@ publishDate: '2023-12-01T00:00:00Z'
 publication_types: ['article-magazine']
 
 # Publication name and optional abbreviated publication name.
-publication: In *report psychologie*
+publication: In *report psychologie 06/2023*
 publication_short: []
 
 abstract: Psychische Störungen weisen nach wie vor hohe Prävalenzen auf und stellen Herausforderungen an den Umgang und die Gestaltung von Politik und Gesundheitswesen. Die europaweit aktive Kampagne *Mind the Mind* des Dachverbands europäischer Psychologiestudierendenvereinigungen (EFPSA) verschreibt sich dem gesellschaftspolitischen Auftrag, ehrenamtlich Aufklärungs- und Entstigmatisierungsarbeit zu leisten, Perspektiven sowie Anlaufstellen aufzuzeigen, und einen Unterschied im gesellschaftlichen Framing und Umgang mit erlebter und beobachteter Betroffenheit zu markieren. Im vorliegenden Beitrag erfolgt eine Vorstellung der Kampagne, ihrer Hintergründe, Umsetzungen, Herausforderungen und Zukunftsperspektiven.

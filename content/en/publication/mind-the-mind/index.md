@@ -22,7 +22,7 @@ publishDate: '2023-12-01T00:00:00Z'
 publication_types: ['article-magazine']
 
 # Publication name and optional abbreviated publication name.
-publication: In *report psychologie*
+publication: In *report psychologie 06/2023*
 publication_short: []
 
 abstract: Mental disorders continue to be highly prevalent and pose challenges in terms of how they are dealt with and shaped by politics and the healthcare system. The *Mind the Mind* campaign of the European Federation of Psychology Students' Associations (EFPSA), which is active throughout Europe, is dedicated to the socio-political mission of providing voluntary education and destigmatization work, highlighting perspectives and contact points, and marking a difference in the social framing and handling of experienced and observed distress. This article presents the campaign, its background, implementation, challenges, and future prospects.

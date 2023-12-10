@@ -453,7 +453,7 @@ sections:
       title: Get in touch
       subtitle:
       text: |-
-        Feel free to send an e-mail. I will get back to you as soon as possible. Looking forward!
+        Feel free to send an e-mail or book a non-binding consultation via the calendar form below. I will get back to you as soon as possible. Looking forward!
       # Contact (add or remove contact options as necessary)
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88

@@ -442,7 +442,7 @@ sections:
       title: Schreiben
       subtitle:
       text: |-
-        Sie können mir gerne eine E-Mail schicken. Ich freue mich!
+        Sie können mir gerne eine E-Mail schicken oder über das Buchungstool ein unverbindliches Meeting vereinbaren. Ich freue mich!
       # Contact (add or remove contact options as necessary)
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88

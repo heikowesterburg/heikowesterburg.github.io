@@ -273,6 +273,39 @@ sections:
           url: ''
     design:
       columns: '2' 
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Auszeichnungen & Engagements'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-11-01'
+          description: ''
+          icon: 
+          organization: Studienstiftung des dt. Volkes e.V.
+          organization_url: https://www.studienstiftung.de/
+          title: Stipendiat | Bildungsbotschafter auf Auswahlseminaren | Ehrenamtliche Referententätigkeit
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-12-01'
+          description: 
+          icon: 
+          organization: Universität zu Köln
+          organization_url: https://www.uni-koeln.de/
+          title: Universitätspreis 2020 // Lehre und Studium
+          url: 'https://www.youtube.com/watch?v=pV_CNCYAVss'
+    design:
+      columns: '2' 
   #- block: collection
     #id: posts
     #content:

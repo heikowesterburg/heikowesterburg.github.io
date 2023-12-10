@@ -447,7 +447,6 @@ sections:
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88
       appointment_url: 'https://calendly.com/heiko-westerburg/15min'
-        - 'Unverbindliches Gespräch buchen'
       #address:
        # street: 450 Serra Mall
        # city: Stanford

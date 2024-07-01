@@ -209,8 +209,17 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: ''
-          date_start: '2021-11-26'
+          date_end: '2025-03-31'
+          date_start: '2024-03-14'
+          description: ''
+          icon: 
+          organization: INeKO | Institut at the University of Cologne
+          organization_url: https://ineko-cologne.com/
+          title: Systemic Coaching & Changemanagement (in Ausbildung)
+          url: ''
+        - certificate_url: ''
+          date_end: '2023-11-28'
+          date_start: '2023-01-31'
           description: ''
           icon: 
           organization: INeKO | Institute at the University of Cologne

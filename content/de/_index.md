@@ -32,6 +32,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Wissenschaftlicher Mitarbeiter
+          company: Universität zu Köln | Department Psychologie | Professur für Klinische Psychologie und empirisch-quantitative Tiefenpsychologie
+          company_url: 'https://www.hf.uni-koeln.de/41478'
+          company_logo: 
+          location: Köln
+          date_start: '2024-07-10'
+          date_end: ''
+          description: |2-
+              Aufgaben:
+              * Außerplanmäßige Viertel-Stelle zur Gestaltung von Projektanträgen zu Volunteer-Forschung sowie Mitarbeit in Vorbereitung von Meta-Analysen und systematischen Reviews des Lehrstuhls.
+              *	Lehrauftrag im Umfang von 2SWS im WS24/25 für ein M.Sc. Kolloquium zu Ehrenamts-, Psychotherapeut_innen-, Präventions-, Feld- und Longitudinalforschung.
+              *	Assistenz in Organisation, Datenmanagement und weiteren administrativen Feldern des Lehrstuhls.
         - title: Co-Dozent
           company: INeKO | Institut an der Universität zu Köln
           company_url: 'https://ineko-cologne.com'
@@ -41,7 +53,10 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Begleitung von Mediations-Ausbildungsmodulen. 
+              * Begleitung von Mediationsausbildungen und Ausbildungsteilnehmenden an allen 24 Ausbildungstagen. 
+              *	Feedback an angehende Mediator_innen nach Praxiseinheiten. 
+              *	Beantwortung organisatorischer bzw. administrativer Fragen und Monitoring von Gruppendynamik und -entwicklung. 
+              *	Briefings und Rückkopplung von Teilnehmenden-Entwicklungen und -Bedarfen mit Dozent_innen und Ausbildungsleitung.
         - title: Praktikant
           company: IDA | Institut für Diversity- & Antidiskriminierungsforschung
           company_url: 'https://www.diversity-institut.info/'
@@ -51,9 +66,11 @@ sections:
           date_end: '2023-12-07'
           description: |2-
               Aufgaben:
-              * Teilnahme und administrative Begleitung eines 200h Mediations-Ausbildungsganges. 
-              * Teilnahme an fünf und Vorbereitung drei wissenschaftlicher Inputs für Research-Meetings. 
-              * Assistenz in der Durchführung von Diversity- und Inclusion Trainings in einem großen Energiekonzerns. 
+              * Begleitung einer 200h Mediationsausbildung als Praktikant und Teilnehmer, u.a. Erstellung von Fotoprotokollen und Debriefings.
+              *	Betreuung und Gestaltung von Korrespondenzen zwischen Institut und Teilnehmenden, inklusive weiterer Vor-Ort-Aufgaben.
+              *	Teilnahme an fünf Research-Meetings inklusive Präsentation von drei wissenschaftlichen Inputs zu den Themen 
+              (1) LGBTQIA* psychische Gesundheit im deutschen Bildungsübergangssystem, (2) Berufsethik und Berufsrecht in der Kinder- und Jugendlichenpsychotherapie und (3) sexuelle Fluidität in der Populationsforschung.
+              *	Technische Assistenz in drei 2.5h Diversity- und Inklusions-Trainings eines mittelständischen Energiekonzerns.
         - title: Referent
           company: BILDERLEBEN | Psychologische Kunstvermittlung
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -63,10 +80,15 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Durchführung >50 psychologischer Bildbetrachtungen in den drei Kölner Museen Ludwig, Schnütgen, Wallraf-Richartz. 
-              * Akquise, Onboarding, Begleitung und Offboarding von 5 Praktikant_innen. 
-              * Produktion von >20 Instagram Reels zur Arbeit der Initiative.
-              * Terminliche Team-Koordination.
+              * Personalmanagement sowie Terminplanung, Öffentlichkeitsarbeit und andere organisatorische Aufgaben des Unternehmens.
+              *	Leitung (Akquise, Planung, Durchführung, Auswertung und Charting) eines qualitativen Forschungsprojekts in der Privatwirtschaft.
+              *	Durchführung über 60 psychologischer Bildbetrachtungen mit insg. über 600 Klient_innen mit der Methode des Tiefeninterviews in den Museen Ludwig, Schnütgen und Wallraf-Richartz | in Kooperation mit dem Museumsdienst Köln.
+              *	Co-Dozentur drei kunstpsychologischer Seminare im Rahmen des Studium Integrale an der Universität zu Köln.
+              *	Assistenz und Schriftführung in Teamentwicklungsmaßnahmen auf C-Ebene mittelständischer Konzerne in der Privatwirtschaft.
+              *	Leitung der Klient_innenakquise für private kunstpsychologische Bildbetrachtungen.
+              *	Leitung der Klient_innenakquise für ein Marktforschungsvorhaben zur Bedarfs- und Anforderungsanalyse von Teamentwicklungsmaßnahmen auf C-Ebene in der Privatwirtschaft.
+              *	Konzeptualisierung eines neuen Internetauftritts in Kooperation mit Webdesignverantwortlichem.
+              *	Konzeptualisierung, Produktion und Publikation von über 40 Instagram-Reels zwecks PR mit durchschnittlich je über 600 Aufrufen.
         - title: Erlebnispädagogischer Referent
           company: Quovadis Gesellschaft für Soziale Bildung UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
@@ -76,8 +98,8 @@ sections:
           date_end: '2023-12-31'
           description: |2-
               Aufgaben:
-              * Begleitung von 22 Klassenfahrten, 2 Kinder- und 3 Familienfreizeiten mit unterschiedlichen pädagogischen und sozioökonomischen Zielgruppen.
-              * Einarbeitung von 6 Kolleg_innen in der Durchführung thematisch diverser erlebnispädagogischer Programme.
+              * Durchführung 26 1.5-tägiger Klassenfahrten, zwei 7-tägiger Kinderfreizeiten und drei 7-tägiger Familienfreizeiten.
+              *	Einarbeitung von sechs Kolleg_innen in der Durchführung thematisch diverser erlebnispädagogischer Programme.
         - title: Studentische Hilfskraft (SHK)
           company: Uniklinik Köln | Zentrum für Gedächtnisstörungen
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -87,9 +109,9 @@ sections:
           date_end: '2021-09-30'
           description: |2-
               Aufgaben:
-              * Unterstützung der Methoden-/Steuerungsgruppe in einer großen Literaturrecherche zur Revision der S3-Leitlinie Demenzen. 
-              * Screening rund 5000 Forschungsartikel auf Basis festgelegter Suchbegriffe; Evaluation dieser Artikel zur weiteren Leitlinienverwendung. 
-              * Beurteilung der methodologischen Qualität rund 500 Forschungsartikel entlang NICE-Beurteilungskriterien und CASP-Checklisten.
+              * Unterstützung der Methodengruppe in der Überarbeitung der S3-Leitlinie Demenzen.
+              *	Screening von 5000 Forschungsartikeln; Bewertung der allgemeinen Eignung zur weiteren Verwendung der Artikel.
+              *	Beurteilung der methodischen Qualität etwa 500 Forschungsartikel anhand NICE- und CASP-Leitlinien.
         - title: Praktikant
           company: Uniklinik Köln | Zentrum für Gedächtnisstörungen
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -99,21 +121,23 @@ sections:
           date_end: '2021-01-31'
           description: |2-
               Aufgaben:
-              * Durchführung 50 neuropsychologischer Testungen (NPTs), anschließend diagnostische Beurteilung und supervidierte Befundung. 
-              * Zusammenfassung diagnostischer Ergebnisse für interdisziplinäre Fallkonferenzen, inklusive Administration von rund 450 Patient_innenakten. 
-              * Bearbeitung von Stimulusvorlagen eines multinationalen Forschungsvorhabens zu Sozialer Kognition in Personen mit Demenzen. 
-              * Aufbereitung und Analyse neuropsychologischer Studiendaten einer europaweiten Forschungszusammenarbeit an vier Gedächtniszentren. 
-              * Assistenz in der Organisation eines Symposiums am Zentrum für Gedächtnisstörungen, inklusive Koordination von rund 1400 Einladungen. 
-        - title: Tutor
+              * Durchführung, Auswertung und supervidierte Befundung 50 Neuropsychologischer Testungen.
+              *	Aufbereitung testdiagnostischer Ergebnisse für interdisziplinäre Fallkonferenzen, inkl. Administration ca. 450 Patient_innenakten.
+              *	Stimulusaufbereitung für ein multinationales Forschungsprojekt zu Sozialer Kognition in Personen mit Demenzen.
+              *	Aufbereitung und Analyse von Daten eines großangelegten Forschungsprojektes aus vier EU-weiten Gedächtniszentren.
+              *	Assistenz in Symposiums-Vorbereitung, inkl. Verwaltung der rund 1400 Einladungen.
+        - title: Lehrassistenz, Programmkoordination
           company: Universität zu Köln | Department Psychologie
           company_url: 'https://www.hf.uni-koeln.de/2013'
           company_logo: 
           location: Köln
           date_start: '2020-10-01'
-          date_end: '2023-11-30'
+          date_end: '2024-10-11'
           description: |2-
               Aufgaben:
-              * Betreuung des inhaltlichen Erstsemester-Bachelor-Einführungsprogramms in vier Kohorten, die Begleitung von ca. 50 Student_innen durch den wissenschaftlichen Erkenntnisgewinnungszyklus in Form von Konzeption, Durchführung, Analyse und Berichtung einer ersten psychologischen Untersuchung. 
+              * Ausführung des inhaltlichen Erstsemester-Bachelor-Einführungsprogramms, u.a. durch engmaschige Anleitung und Begleitung eines wissenschaftlichen Erkenntnisgewinn-Zyklus in Kleingruppen (insg. 60 Studierende) inklusive Konzeption, Durchführung, Analyse und Berichtung einer ersten empirisch-psychologischen Untersuchung.
+              *	Schnittstellenkommunikation und Programmkoordination zwischen Institut und Fachschaft zur Verschränkung inhaltlicher und sozialer Programmtermine des Erstsemester-Einführungsprogramms.
+              *	Maßgeblicher Beitrag zum Gewinn des Universitätspreises in der Kategorie Studium und Lehre 2020, z.B. durch Erstellung einer digitalen Campustour, Betreuung und Durchführung von Programmkommunikation an die Studierenden, und Durchführung studentischer Evaluationsprozesse zur Steuerung von Qualität, Durchführbarkeit und Zufriedenheit hinsichtlich des Programms.
         - title: Praktikant
           company: BILDERLEBEN | Psychologische Kunstvermittlung
           company_url: 'https://www.https://bilderleben.net/'
@@ -123,8 +147,8 @@ sections:
           date_end: '2021-09-30'
           description: |2-
               Aufgaben:
-              * Durchführung von ca. 5 psychologischen Bildbetrachtungen in den Kölner Museen Ludwig, Schnütgen, Wallraf-Richartz. 
-              * Schulung in tiefenpsychologischer Gesprächsführung und der Methode des Tiefeninterviews.
+              * Durchführung 5 psychologischer Bildbetrachtungen mit insgesamt ca. 50 Klient_innen in drei Kölner Museen.
+              *	Ausführliche Schulung in Methoden (tiefen-)psychologischer Gesprächsführung.
         - title: Studentische Hilfskraft (SHK)
           company: Universität zu Köln | Department Psychologie | Lehrstuhl für Angewandte Sozialpsychologie und Entscheidungsforschung
           company_url: 'https://soccco.uni-koeln.de/groups/dohle'
@@ -134,11 +158,11 @@ sections:
           date_end: '2020-03-31'
           description: |2-
               Aufgaben:
-              * Betreuung von drei psychologischen Experimenten, sowohl im Labor als auch online, inklusive Akquise von 400 Versuchspersonen.
-              * Durchführung von drei Studien als Labormanager, sowohl im Labor als auch online, nach standardisierten Ablaufkriterien.
-              * Unterstützung bei der Bereinigung und Aufbereitung von Lehrstuhlforschungsarbeiten mit bis zu 40.000 Datenpunkten für nachfolgende Analysen.
-              * Erstellung einer systematischen Übersicht eines Lehrstuhl-Forschungsprojekts unter Anwendung etablierter Kriterien für transparente und ethische Forschung.
-              * Unterstützung weiterer organisatorischer Aufgaben für Forschung und Lehre.
+              * Begleitung drei psychologischer Experimente, inklusive Akquise rund 400 Teilnehmer_innen.
+              *	Versuchsleitung drei psychologischer Experimente, sowohl im Labor als auch online, inklusive Versuchsleitungsschulung.
+              *	Aufbereitung von Studiendaten mit rund 40.000 Reaktionszeit-Datenpunkten für subsequente Analysen.
+              *	Vorbereitung eines systematischen Reviews unter Einhaltung von Open-Science-, CONSORT- und PRISMA-Kriterien.
+              *	Assistenz und Optimierung weiterer organisatorischer Tätigkeiten für Forschung und Lehre der Arbeitsgruppe. 
     design:
       columns: '2'
   - block: experience

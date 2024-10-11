@@ -72,7 +72,7 @@ sections:
               (1) LGBTQIA* psychische Gesundheit im deutschen Bildungsübergangssystem, (2) Berufsethik und Berufsrecht in der Kinder- und Jugendlichenpsychotherapie und (3) sexuelle Fluidität in der Populationsforschung.
               *	Technische Assistenz in drei 2.5h Diversity- und Inklusions-Trainings eines mittelständischen Energiekonzerns.
         - title: Referent
-          company: BILDERLEBEN | Psychologische Kunstvermittlung
+          company: BILDERLEBEN und Heiling Wirtschaftsmorphologie
           company_url: 'https://www.bilderleben.net/en/index.html'
           company_logo: 
           location: Köln
@@ -359,7 +359,7 @@ sections:
         - certificate_url: ''
           date_end: '2024-04-30' 
           date_start: '2023-06-01'
-          description: |2-
+          description: |
             *	Expertenbeiträge für „Trialogische Lehre in virtuellen studentischen Lernumgebungen“ für Studierende der Sozialen Arbeit.
             *	2024 | „Psychische Gesundheit am Arbeitsplatz mit besonderem Fokus auf Situationen LSBTIQ*-Arbeitnehmer_innen“.
             *	2023 | „Entstigmatisierung weiterdenken: Spannungsfelder von Kampagnenarbeit, Fachverantwortung und Aktivismus“.
@@ -371,7 +371,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2018-11-01'
-          description: |2-
+          description: |
             *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023 und 2024.
             *	Schulungen in den Bereichen Kommunikation, Rhetorik, Feedback und Öffentlichkeitsarbeit.
             *	Korrespondenzen als Bildungsbotschafter während Auswahlwochenenden für künftige Stipendiat_innen.
@@ -385,7 +385,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
-          description: |2-
+          description: |
               *	Für das landesweit einzigartige Erstsemester-Einführungsprogramm: „Wie geht psychologische Wissenschaft?“
               *	Koordination, Durchführung, Evaluation und Weiterentwicklung des Einführungsprogramms in engem Austausch mit Department.
               *	Begleitung von 60 Erstsemesterstudierenden durch den wissenschaftlich-psychologischen Erkenntnis-Gewinnungsprozess.

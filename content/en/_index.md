@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-10-11
 type: landing
 
 sections:
@@ -32,6 +32,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assistant
+          company: University of Cologne | Department Psychology | Chair of Clinical Psychology and Empirical-Quantitative Depth Psychology, Jun.-Prof. Dr. Johannes C. Ehrenthal
+          company_url: 'https://www.hf.uni-koeln.de/41478'
+          company_logo: 
+          location: Cologne
+          date_start: '2024-10-07'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Extracurricular quarter-time position for the design of project proposals on volunteer research and collaboration in the preparation of meta-analyses and systematic reviews of the chair.
+              * Implemented a assignment of 2 contact hours per week during WS24/25 for an M.Sc. colloquium on volunteer, psychotherapeutic, prevention, field and longitudinal research.
+              * Assisted in organization, data management and other administrative fields of the chair.
         - title: Co-lecturer
           company: INeKO | Institute at the University of Cologne
           company_url: 'https://ineko-cologne.com'
@@ -41,7 +53,10 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Co-facilitation of mediation training modules. 
+              * Supervised mediation training courses and training participants on all 24 training days. 
+              * Offered feedback to prospective mediators after practical sessions. 
+              * Answered organizational and administrative questions and monitoring group dynamics and development. 
+              * Briefed and offered feedback on participant developments and needs to lecturers and training management.
         - title: Intern
           company: IDA | Institute for Diversity & Anti-Discrimination-Research
           company_url: 'https://www.diversity-institut.info/'
@@ -51,11 +66,13 @@ sections:
           date_end: '2023-12-07'
           description: |2-
               Responsibilities included:
-              * Participated in and administratively supported a 200h mediation training. 
-              * Participated and contributed scientific inputs in 5 research meetings.
-              * Assisted in the facilitation of diversity and inclusion trainings for a large energy company.
+              * Accompanied a 200h mediation training as an intern and participant, including preparation of photo protocols and debriefings.
+              * Supervised and organized correspondence between the institute and participants, including other on-site tasks.
+              * Participated in five research meetings, including presenting three scientific inputs on the following topics (1) LGBTQIA* mental health in the German educational transition system, (2) professional ethics and professional law in child and adolescent psychotherapy and (3) sexual fluidity in population research.
+              * Assisted in three 2.5h diversity and inclusion trainings of a medium-sized energy company (technical support and assistance to the trainer).
+              * Compiled a benchmark overview for mediation training programs. 
         - title: Adviser
-          company: BILDERLEBEN | Psychoanalysis of Art 
+          company: BILDERLEBEN and Heiling Wirtschaftsmorphology 
           company_url: 'https://www.bilderleben.net/en/index.html'
           company_logo: 
           location: Cologne
@@ -63,21 +80,26 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Facilitated >50 guided psychological art tours in three large museums in Cologne. 
-              * Recruitment, onboarding, accompaniment, and offboarding of 5 interns.
-              * Production of >20 Instagram reels displaying the initiative's work.
-              * Team-coordination of appointments.
+              * Controlled personnel management as well as scheduling, public relations and other organizational tasks of the company.
+              * Executed (acquisition, planning, implementation, evaluation and charting) a qualitative research project in the private sector.
+              * Conducted over 60 psychological picture surveys with a total of over 600 clients using the in-depth interview method in the Ludwig, Schnütgen and Wallraf-Richartz museums in cooperation with the Museumsdienst Köln.
+              * Co-lectured three art psychology seminars as part of the Studium Integrale at the University of Cologne.
+              * Assisted and logged during team development measures at C-level in medium-sized companies in the private sector.
+              * Controlled client acquisition for private guided art-psychological tours.
+              * Conducted acquisition for a market research project to analyze the needs and requirements of team development measures at C-level in the private sector.
+              * Assisted in conceptualizing a new website in cooperation with the web design manager.
+              * Conceptualized, produced and published over 50 Instagram reels for PR purposes with an average of over 600 views each.
         - title: Experience-pedagogical Adviser
           company: Quovadis Society for Social Education UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
           company_logo: 
-          location: Heimbach
+          location: Northrhine-Westphalia 
           date_start: '2021-09-01'
           date_end: '2023-12-31'
           description: |2-
               Responsibilities included:
-              * Guided 22 class travels, 2 children’s camps, and 3 family retreats for diverse educational and socioeconomic target groups.
-              * Familiarized six new colleagues with the implementation and future leading of four thematically diverse pedagogical programmes.
+              * Implemented 26 1.5-day school trips, two 7-day children's camps and three 7-day family camps.
+              * Trained six colleagues in the implementation of thematically diverse experiential education programs.
         - title: Student Assistant
           company: University Hospital Cologne | Center for Memory Disorders
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -87,9 +109,9 @@ sections:
           date_end: '2021-09-30'
           description: |2-
               Responsibilities included:
-              * Supported the methodology/steering group in a large-scale literature review revising the S3 guideline *Dementias*.
-              * Screened about 5000 research articles based on predefined search terms; evaluated these articles for further guideline use.
-              * Assessed methodological quality of about 500 research articles along the NICE guideline as well as CASP checklists.
+              * Supported the methods group in revising the S3 guidelines on dementia.
+              * Screened 5000 research articles and assessed general suitability for further use of the articles.
+              * Assessed the methodological quality of around 500 research articles based on NICE and CASP guidelines.
         - title: Intern
           company: University Hospital Cologne | Center for Memory Disorders
           company_url: 'https://psychiatrie-psychotherapie.uk-koeln.de/klinik/ambulante-behandlung/spezialambulanz-gedaechtnisstoerungen/'
@@ -99,21 +121,23 @@ sections:
           date_end: '2021-01-31'
           description: |2-
               Responsibilities included:
-              * Conducted 50 neuropsychological tests, with consequent diagnostic evaluation and supervised report writing.
-              * Summarized diagnostical results for interdisciplinary case conferences, including sorting of about 450 patient files.
-              * Edited stimulus templates for a multinational research project on social cognition in dementia.
-              * Prepared and analyzed neuropsychological study data from a europewide large-scale multicenter study at four memory centers.
-              * Assisted in the organization of a symposium, including the coordination of 1400 invitations.
-        - title: Teaching assistant
+              * Implemented, evaluated and supervisedly reported 50 neuropsychological tests.
+              * Prepared test diagnostic results for interdisciplinary case conferences, including administration of approx. 450 patient files.
+              * Prepared stimuli for a multinational research project on social cognition in people with dementia.
+              * Prepared and analyzed data from a large-scale research project from four EU-wide memory centers.
+              * Assisted in symposium preparation, including administration of around 1400 invitations.
+        - title: Teaching assistant, program coordinator
           company: University Cologne | Department of Psychology 
           company_url: 'https://www.hf.uni-koeln.de/2013'
           company_logo: 
           location: Cologne
           date_start: '2020-10-01'
-          date_end: '2023-11-30'
+          date_end: '2024-10-11'
           description: |2-
               Responsibilities included:
-              * Facilitated the content-related first semester Bachelor's introductory program in four cohorts, guiding approx. 48 students through a scientific knowledge gain cycle by designing, running, analyzing, and reporting their first small psychological study.
+              * Implemented the content of the first-semester bachelor's introductory program, including close guidance and support of a scientific knowledge acquisition cycle in small groups (70 students in total), including design, implementation, analysis and reporting of an initial empirical-psychological study.
+              * Executively performed interface communication and program coordination between the institute and the student council to interlink the content and social program dates of the first semester introductory program.
+              * Significantly contributed to winning the University Prize in the category Studies and Teaching 2020, e.g. by creating a digital campus tour, supervising and implementing program communication to students, and conducting student evaluation processes to control quality, feasibility and satisfaction with regard to the program.
         - title: Intern
           company: BILDERLEBEN | Psychoanalysis of Art 
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -134,11 +158,11 @@ sections:
           date_end: '2020-03-31'
           description: |2-
               Responsibilities included:
-              * Supervised three psychological experiments, both in the laboratory and online, recruiting 400 participants on site.
-              * Conducted three studies as an investigator, both in the laboratory and online, according to standardized procedures.
-              * Assisted in the cleaning and preparation of data with up to 40,000 data points for subsequent analyses.
-              * Prepared a systematic review of a chair research project using established criteria for transparent and ethical research.
-              * Accelerated further organizational support work for research and teaching at the chair.
+              * Supervised three psychological experiments, including acquisition of around 400 participants.
+              * Supervised three psychological experiments, both in the laboratory and online, including traversing training for the supervisors.
+              * Prepared study data with around 40,000 IAT reaction time data points for subsequent analyses.
+              * Prepared a systematic review in compliance with Open Science, CONSORT and PRISMA criteria.
+              * Assisted in and optimized further organizational activities for research and teaching of the working group. 
     design:
       columns: '2'
   - block: experience
@@ -147,52 +171,79 @@ sections:
       title: Honorary Office
       date_format: Jan 2006
       items:
-        - title: National Coordinator | Germany
+        - title: Data Management Responsible in Social Impact Initiative (SII) 
+          company: European Federation of Psychology Students' Associations (EFPSA) 
+          company_url: 'https://efpsa.org/services/#social-impact-initiative'
+          company_logo: 
+          location: remote, Europe-wide
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              * Data management of all psychological campaigns of the umbrella organization's SII and advice on compliance with GDPR.
+              * Developing and optimizing international data management and research infrastructure.
+              * Analysing and charting of evaluation data from volunteers and recipients.
+              * Preparing and manuscript design of publications on the characteristics and impact of umbrella organization initiatives.
+              * Designing, monitoring and streamlining internal evaluation processes.
+        - title: Member of the Commission for Research and the Promotion of Young Scientists
+          company: University of Cologne | Department of Psychology
+          company_url: 'https://www.hf.uni-koeln.de/39530'
+          company_logo: 
+          location: Cologne
+          date_start: '2023-10-01'
+          date_end: '2024-03-31'
+          description: |2-
+              Responsibilities included:
+              * Participating in committee meetings with the aim of submitting proposals to the Executive Director for coordinating research work, improving the acquisition of third-party funding and collaborating with other disciplines to promote young researchers.
+              * Examining submitted theses and subsequent voting on the awarding of the Master's Thesis Prize in Psychology 2023.
+        - title: National Coordinator | Mind the Mind Germany
           company: Mind the Mind | An EFPSA Social Impact Initiative 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
           company_logo: 
-          location: Cologne
-          date_start: '2022-10-01'
-          date_end: ''
+          location: remote | Germany- and Europe-wide
+          date_start: '2022-09-01'
+          date_end: '2024-08-31'
           description: |2-
-              Responsibilities:
-              * Coordinated, supervised, and guided a team of in sum 37 local coordinators from 23 German cities in their tasks, overseeing a total of >500 volunteers nationwide.
-              * Scheduled and chaired monthly meetings with local coordinators for supervision and consultation on campaign progress.
-              * Streamlined organizational processes regarding the progress of the campaign and interface-communication.
-              * Supported local coordinators in translating materials, contacting institutions, promoting the campaign, acquiring volunteers, organizing workshop trainings and psychopathology lectures, and monitoring the evaluation process.
-              * Reviewed monthly feedback reports on the progress of the campaign by local coordinators to the umbrella organization.
-              * Trained 120 volunteers to qualify in delivering campaign workshops on mental disorders and handling challenging situations.
-              * Published a five-page article in Report Psychologie, the journal of the professional association of german psychologists.
-              * Reconciled diverging stances of local coordinators, volunteers, and umbrella organization staff in cases of conflict, strengthening cohesion between all status-groups involved in advancing the campaign.
-        - title: Local Coordinator | Germany, Cologne
-          company: Mind the Mind | An EFPSA Social Impact Initiative 
+              Responsibilities included:
+              * Managing and supporting 23 (2022) and 37 (2023) teams from 18 (2022) and 23 (2023) cities.
+              * Chairing monthly meetings with team members for supervision and collegial advice on campaign progress.
+              * Monitoring and streamlining organizational processes with regard to interface communication between the team and the umbrella organization
+              * Supporting the local coordinators in areas such as translating materials, contacting institutions, campaign advertising, acquiring volunteers and organizing training sessions and psychopathology lectures.
+              * Reviewing and offering feedback to monthly reports from the local coordinators on the progress of the campaign.
+              * Training 200 volunteers (more than 30 percent of the active volunteers nationwide) for workshop speaker activities.
+              * Training of 20 local coordinators to conduct trainings on their own responsibility (train the trainer approach).
+              * Publishing an article in Report Psychologie, the journal of the Professional Association of German Psychologists.
+              * Implementing mediation-analog discussion support in the event of conflict situations between status groups for the future- and solution-oriented processing of concerns and interests in order to strengthen cohesion between all parties involved.
+        - title: Local Coordinator | Mind the Mind Germany, Köln
+          company: Mind the Mind | Eine EFPSA Social Impact Initiative 
           company_url: 'https://mindthemind-germany.efpsa.org/'
           company_logo: 
           location: Cologne
-          date_start: '2020-10-01'
-          date_end: '2021-07-31'
+          date_start: '2020-09-01'
+          date_end: '2021-08-31'
           description: |2-
-              Responsibilities:
-              * Acquired, coordinated, supervised, and guided a team of 60 local volunteers in Cologne, first-time instating the site.
-              * Corresponded with schools and organizations, arranging dates for 30 workshops with a total of 600 participants.
-              * Provided volunteers with materials, guidelines, and information, including task allocation and scheduling trainings.
-              * Gathered local professors for delivering content training sessions on core mental disorders for the volunteers.
-        - title: Member of the Student Council
+              Responsibilities included:
+              * First-time instantiation of the location by acquiring, coordinating and supporting a team of 60 volunteers.
+              * Corresponding with schools to arrange dates for approx. 30 workshops with a total of approx. 600 participants.
+              * Providing the volunteers with materials, guidelines and information; delegating tasks and planning training sessions.
+              * Acquiring professors to hold separate psychopathology lectures to train the volunteers.
+        - title: Member of the Student Council (2018 – 2024) | Chair of the Executive Board (2019 – 2020)
           company: Psychology Student Council | University of Cologne
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
           company_logo:
           location: Cologne
           date_start: '2018-11-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
-              Responsibilities:
-              * Moderated round tables with student and department representatives to improve external communications regarding sensitive matters of trust, facilitating the reconstruction of constructive atmosphere between the status groups.
-              * Developed a social media strategy and produced content on Instagram and YouTube, leading to an increase of 400 per cent in followers and a total of over 2000 views, thereby creating unique selling propositions in Germany-wide competition regarding studyability at the Department of Psychology at the University of Cologne.
-              * Supervised, designed and remodeled the web presence of the Psychology Student Council.
-              * Participated in regular department meetings, stimulating exchanges between professoral and student body.
-              * Executed a student workload and satisfaction survey, including correspondence to the department to address solutions in improving student wellbeing and mental health.
-              * Organized and oversaw several student-organized events (graduation party, summer party, department day, general meeting of the student council) with a total of more than 2000 attendees.
-              * Supervised a group of 30 volunteers as member of the executive committee (11/19 - 10/20), organizing weekly meetings and check-ins. 
+              Responsibilities included:
+              * Implementing mediation-analog moderation of a round table with student and institute representatives to work on issues of trust in order to strengthen a constructive atmosphere between the department and students.
+              * Developing a social media strategy and production of PR content, with a subsequent increase in reach of 400% and a total of over 2500 views, thus creating a unique selling point in DE-wide placement in terms of visibility and insights into the studyability of psychology at the University of Cologne.
+              * Editorial responsibility and redesign of the website of the Psychology Student Council Cologne.
+              * Participating in regular departmental meetings to promote student exchange with professors and academic staff and to represent the interests of students.
+              * Constructing, collecting, analyzing and charting a survey on student workload and satisfaction, including correspondence with the institute to develop solutions to create or collect offers to improve the well-being and mental health of students during the COVID-19 pandemic.
+              * Leading organization, supervision and evaluation of several student-organized event formats (graduation ceremonies, summer parties, department days, plenary meetings of the student council) with a total of well over 2000 participants.
+              * Coaching a group of 30 volunteers as chair of the executive board, including chairing weekly meetings, team development measures and individual membership discussions.
+              * Assuming the role of contact person for student concerns in the advisory team.
     design:
       columns: '2'
   - block: accomplishments
@@ -296,22 +347,53 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: ''
+          date_end: '2024-07-31' 
+          date_start: '2023-11-28'
+          description: |
+            * Implementing interactive, psychological theme evenings: “Beyond the Binary | Let's Talk About Queer Mental Health”.
+          icon: 
+          organization: Autonomes Queerreferat (AQUK) | University of Cologne
+          organization_url: https://aquk.uni-koeln.de/home
+          title: Speaker
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-04-30' 
+          date_start: '2023-06-01'
+          description: |
+            * Expert contributions for “Trialogical teaching in virtual student learning environments” for social work students.
+            * 2024 | “Mental health in the workplace with a special focus on LGBTIQ* employee situations”.
+            * 2023 | “Rethinking destigmatization: Tensions between campaigning, professional responsibility and activism”.
+          icon: 
+          organization: Niederrhein University of Applied Sciences
+          organization_url: https://www.hs-niederrhein.de/sozialwesen/trialogle/
+          title: External Speaker
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-09-30'
           date_start: '2018-11-01'
-          description: ''
+          description: |
+            * Conceptualizing, adapting, facilitating and evaluating 90-minute interactive, psychological theme evenings on “Stress, burnout and resilience in studies” on welcome weekends for new scholarship holders in April 2022, 2023 and 2024.
+            * Traversing training in the areas of communication, rhetoric, feedback and public relations.
+            * Corresponding as educational ambassadors during selection weekends for future scholarship holders.
+            * Participating in seminars on the topics of “Illness in literature, film and art”, as well as virtual colloquia on “Improving volunteer work”, “UN Security Council”, “Open Science” and “Environmental ethics in the Anthropocene”.
+            * Participating in a three-week intensive Spanish language course (A2).
           icon: 
           organization: German Academic Scholarship Foundation
-          organization_url: https://www.studienstiftung.de/en
-          title: Scholarship holder | Educational ambassador at selection seminars | Voluntary speaker activities
+          organization_url: https://www.studienstiftung.de/
+          title: Scholar | Education ambassador | Speaker
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
-          description: 
+          description: |
+              * For the nationwide unique introductory program for first-semester students: “How does psychological science work?”
+              * Coordinating, implementing, evaluating and further developing the introductory program in close cooperation with the department.
+              * Guiding 60 first semester students through the scientific-psychological knowledge acquisition process.
+              * Managing interface communication between the department and the student council in the interlinked implementation of the program.
           icon: 
-          organization: Universität zu Köln
+          organization: University of Cologne
           organization_url: https://www.uni-koeln.de/
-          title: University Prize 2020 // Teaching and studies
+          title: University Prize 2020 in the Study and Teaching category
           url: 'https://www.youtube.com/watch?v=pV_CNCYAVss'
     design:
       columns: '2' 
@@ -462,11 +544,11 @@ sections:
       title: Get in touch
       subtitle:
       text: |-
-        Feel free to send an e-mail or book a non-binding consultation via the calendar form below. I will get back to you as soon as possible. Looking forward!
+        Please feel free to send me an e-mail with your request. I look forward to hearing from you!
       # Contact (add or remove contact options as necessary)
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/heiko-westerburg/15min'
+      #appointment_url: 'https://calendly.com/heiko-westerburg/15min'
       #address:
        # street: 450 Serra Mall
        # city: Stanford

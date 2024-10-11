@@ -17,14 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: m.sc. psychology (in training) | certified mediator
+role: M.Sc. Psychology (in training) | Certified Mediator
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Cologne
     url: https://www.uni-koeln.de/
-  - name: IDA | Institute for Diversity & Anti-Discrimination Research
-    url: https://www.diversity-institut.info/
   - name: INeKO | Institute at the University of Cologne
     url: https://ineko-cologne.com/
 
@@ -33,22 +31,25 @@ bio: My research interests include political polarization, diversity and antidis
 
 # Interests to show in About widget
 interests:
-  - Political Polarization
-  - Communication and Mediation
+  - Psychotherapy and Volunteer Research
   - Diversity and Antidiscrimination
+  - Communication and Mediation
   - Open and Metascience
   - Destigmatization of mental disorders 
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc Psychology (in training)
+    - course: M.Sc. Psychology (in training)
       institution: University of Cologne
       year: 2024
+    - course: Systemic Coaching and Change Management
+      institution: INeKO | Institute at the University of Cologne
+      year: 2025
     - course: Certified mediator
       institution: INeKO | Institute at the University of Cologne
       year: 2023
-    - course: BSc Psychology | 1.5
+    - course: B.Sc. Psychology
       institution: University of Cologne
       year: 2022
 

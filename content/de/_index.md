@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-10-11
 type: landing
 
 sections:
@@ -71,6 +71,7 @@ sections:
               *	Teilnahme an fünf Research-Meetings inklusive Präsentation von drei wissenschaftlichen Inputs zu den Themen 
               (1) LGBTQIA* psychische Gesundheit im deutschen Bildungsübergangssystem, (2) Berufsethik und Berufsrecht in der Kinder- und Jugendlichenpsychotherapie und (3) sexuelle Fluidität in der Populationsforschung.
               *	Technische Assistenz in drei 2.5h Diversity- und Inklusions-Trainings eines mittelständischen Energiekonzerns.
+              * Zusammenstellung einer Benchmarkübersicht für Mediationsausbildungsangebote.
         - title: Referent
           company: BILDERLEBEN und Heiling Wirtschaftsmorphologie
           company_url: 'https://www.bilderleben.net/en/index.html'
@@ -93,7 +94,7 @@ sections:
           company: Quovadis Gesellschaft für Soziale Bildung UG
           company_url: 'https://www.quovadis-soziale-bildung.de/'
           company_logo: 
-          location: Heimbach
+          location: Nordrhein-Westfalen
           date_start: '2021-09-01'
           date_end: '2023-12-31'
           description: |2-
@@ -122,10 +123,10 @@ sections:
           description: |2-
               Aufgaben:
               * Durchführung, Auswertung und supervidierte Befundung 50 Neuropsychologischer Testungen.
-              *	Aufbereitung testdiagnostischer Ergebnisse für interdisziplinäre Fallkonferenzen, inkl. Administration ca. 450 Patient_innenakten.
+              *	Aufbereitung testdiagnostischer Ergebnisse für interdisziplinäre Fallkonferenzen, inklusive Administration ca. 450 Patient_innenakten.
               *	Stimulusaufbereitung für ein multinationales Forschungsprojekt zu Sozialer Kognition in Personen mit Demenzen.
               *	Aufbereitung und Analyse von Daten eines großangelegten Forschungsprojektes aus vier EU-weiten Gedächtniszentren.
-              *	Assistenz in Symposiums-Vorbereitung, inkl. Verwaltung der rund 1400 Einladungen.
+              *	Assistenz in Symposiums-Vorbereitung, inklusive Verwaltung der rund 1400 Einladungen.
         - title: Lehrassistenz, Programmkoordination
           company: Universität zu Köln | Department Psychologie
           company_url: 'https://www.hf.uni-koeln.de/2013'
@@ -135,7 +136,7 @@ sections:
           date_end: '2024-10-11'
           description: |2-
               Aufgaben:
-              * Ausführung des inhaltlichen Erstsemester-Bachelor-Einführungsprogramms, u.a. durch engmaschige Anleitung und Begleitung eines wissenschaftlichen Erkenntnisgewinn-Zyklus in Kleingruppen (insg. 60 Studierende) inklusive Konzeption, Durchführung, Analyse und Berichtung einer ersten empirisch-psychologischen Untersuchung.
+              * Ausführung des inhaltlichen Erstsemester-Bachelor-Einführungsprogramms, u.a. durch engmaschige Anleitung und Begleitung eines wissenschaftlichen Erkenntnisgewinn-Zyklus in Kleingruppen (insg. 70 Studierende) inklusive Konzeption, Durchführung, Analyse und Berichtung einer ersten empirisch-psychologischen Untersuchung.
               *	Schnittstellenkommunikation und Programmkoordination zwischen Institut und Fachschaft zur Verschränkung inhaltlicher und sozialer Programmtermine des Erstsemester-Einführungsprogramms.
               *	Maßgeblicher Beitrag zum Gewinn des Universitätspreises in der Kategorie Studium und Lehre 2020, z.B. durch Erstellung einer digitalen Campustour, Betreuung und Durchführung von Programmkommunikation an die Studierenden, und Durchführung studentischer Evaluationsprozesse zur Steuerung von Qualität, Durchführbarkeit und Zufriedenheit hinsichtlich des Programms.
         - title: Praktikant
@@ -242,7 +243,7 @@ sections:
               *	Teilnahme an regelmäßigen Departmentversammlungen zur Förderung des studentischen Austauschs mit Professor_innen und akademischem Mittelbau sowie zur Interessensvertretung der Studierenden.
               *	Konstruktion, Erhebung, Auswertung und Charting einer Umfrage zu Arbeitsbelastung und Zufriedenheit der Studierenden, einschließlich Korrespondenz mit dem Institut zur Entwicklung von Lösungen zur Schaffung bzw. Sammlung von Angeboten zur Verbesserung des Wohlbefindens und psychischer Gesundheit der Studierenden während der COVID-19-Pandemie.
               *	Leitende Organisation, Supervision und Evaluation mehrerer, studentisch organisierter Veranstaltungsformate (Abschlussfeiern, Sommerfeste, Departmenttage, Vollversammlungen der Fachschaft) mit insgesamt weit über 2000 Teilnehmenden.
-              *	Begleitung einer Gruppe von 30 Freiwilligen als Vorstandsmitglied, inkl. Moderation wöchentlicher Treffen, Teamentwicklungsmaßnahmen und individuellen Mitgliedsgesprächen.
+              *	Begleitung einer Gruppe von 30 Freiwilligen als Vorstandsmitglied, inklusive Moderation wöchentlicher Treffen, Teamentwicklungsmaßnahmen und individuellen Mitgliedsgesprächen.
               *	Ansprechperson für Anliegen von Studierenden im Beratungsteam.
     design:
       columns: '2'
@@ -349,8 +350,8 @@ sections:
         - certificate_url: ''
           date_end: '2024-07-31' 
           date_start: '2023-11-28'
-          description: '
-            * Gestaltung interaktiver, psychologischer Themenabende: „Beyond the Binary | Let’s Talk About Queer Mental Health“.'
+          description: |
+            * Gestaltung interaktiver, psychologischer Themenabende: „Beyond the Binary | Let’s Talk About Queer Mental Health“.
           icon: 
           organization: Autonomes Queerreferat (AQUK) | Universität zu Köln
           organization_url: https://aquk.uni-koeln.de/home
@@ -369,7 +370,7 @@ sections:
           title: Externer Referent
           url: ''
         - certificate_url: ''
-          date_end: ''
+          date_end: '2024-09-30'
           date_start: '2018-11-01'
           description: |
             *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023 und 2024.

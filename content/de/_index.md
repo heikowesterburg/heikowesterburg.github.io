@@ -290,7 +290,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2021-09-17'
-          description: 
+          description: ''
           icon: 
           organization: Akademie für Resilienz und Traumaberatung A.R.T. e.V.
           organization_url: https://www.artev.info/

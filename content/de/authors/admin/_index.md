@@ -43,7 +43,10 @@ education:
   courses:
     - course: M.Sc. Psychologie (in Ausbildung)
       institution: Universität zu Köln
-      year: 2024
+      year: 2025
+    - course: Systemischer Coach & Changemanager (in Ausbildung)
+      institution: INeKO | Institut an der Universität zu Köln
+      year: 2025
     - course: Geprüfter Mediator
       institution: INeKO | Institut an der Universität zu Köln
       year: 2023

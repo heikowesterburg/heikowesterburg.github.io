@@ -270,6 +270,15 @@ sections:
           title: Systemisches Coaching & Changemanagement (in Ausbildung)
           url: ''
         - certificate_url: ''
+          date_end: '2024-01-31'
+          date_start: ''
+          description: ''
+          icon: 
+          organization: Zentrum Gender Studies in Köln (GeStiK)
+          organization_url: https://gestik.uni-koeln.de/
+          title: Zertifikat in Gender und Diversity Studies
+          url: ''
+        - certificate_url: ''
           date_end: '2023-11-28'
           date_start: '2023-01-31'
           description: ''

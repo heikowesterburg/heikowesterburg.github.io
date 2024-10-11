@@ -42,7 +42,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Extracurricular quarter-time position for the design of project proposals on volunteer research and collaboration in the preparation of meta-analyses and systematic reviews of the chair.
-              * Implemented a assignment of 2 contact hours per week during WS24/25 for an M.Sc. colloquium on volunteer, psychotherapeutic, prevention, field and longitudinal research.
+              * Implemented a teaching assignment of 2 contact hours per week during WS24/25 for an M.Sc. colloquium on volunteer, psychotherapeutic, prevention, field and longitudinal research.
               * Assisted in organization, data management and other administrative fields of the chair.
         - title: Co-lecturer
           company: INeKO | Institute at the University of Cologne
@@ -159,7 +159,7 @@ sections:
           description: |2-
               Responsibilities included:
               * Supervised three psychological experiments, including acquisition of around 400 participants.
-              * Supervised three psychological experiments, both in the laboratory and online, including traversing training for the supervisors.
+              * Supervised three psychological experiments, both in the laboratory and online, including traversing training for trial directors.
               * Prepared study data with around 40,000 IAT reaction time data points for subsequent analyses.
               * Prepared a systematic review in compliance with Open Science, CONSORT and PRISMA criteria.
               * Assisted in and optimized further organizational activities for research and teaching of the working group. 
@@ -266,7 +266,16 @@ sections:
           icon: 
           organization: INeKO | Institut at the University of Cologne
           organization_url: https://ineko-cologne.com/
-          title: Systemic Coaching & Changemanagement (in Ausbildung)
+          title: Systemic Coaching & Changemanagement (in training)
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-01-31'
+          date_start: ''
+          description: ''
+          icon: 
+          organization: Center for Gender Studies in Cologne (GeStiK)
+          organization_url: https://gestik.uni-koeln.de/
+          title: Certificate in Gender and Diversity Studies
           url: ''
         - certificate_url: ''
           date_end: '2023-11-28'

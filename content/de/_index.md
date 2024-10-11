@@ -350,7 +350,7 @@ sections:
           date_end: '2024-07-31' 
           date_start: '2023-11-28'
           description: '
-              * Gestaltung interaktiver, psychologischer Themenabende: „Beyond the Binary | Let’s Talk About Queer Mental Health“.'
+            * Gestaltung interaktiver, psychologischer Themenabende: „Beyond the Binary | Let’s Talk About Queer Mental Health“.'
           icon: 
           organization: Autonomes Queerreferat (AQUK) | Universität zu Köln
           organization_url: https://aquk.uni-koeln.de/home
@@ -359,10 +359,10 @@ sections:
         - certificate_url: ''
           date_end: '2024-04-30' 
           date_start: '2023-06-01'
-          description: '
-              *	Expertenbeiträge für „Trialogische Lehre in virtuellen studentischen Lernumgebungen“ für Studierende der Sozialen Arbeit.
-              *	2024 | „Psychische Gesundheit am Arbeitsplatz mit besonderem Fokus auf Situationen LSBTIQ*-Arbeitnehmer_innen“.
-              *	2023 | „Entstigmatisierung weiterdenken: Spannungsfelder von Kampagnenarbeit, Fachverantwortung und Aktivismus“.'
+          description: |2-
+            *	Expertenbeiträge für „Trialogische Lehre in virtuellen studentischen Lernumgebungen“ für Studierende der Sozialen Arbeit.
+            *	2024 | „Psychische Gesundheit am Arbeitsplatz mit besonderem Fokus auf Situationen LSBTIQ*-Arbeitnehmer_innen“.
+            *	2023 | „Entstigmatisierung weiterdenken: Spannungsfelder von Kampagnenarbeit, Fachverantwortung und Aktivismus“.
           icon: 
           organization: Hochschule Niederrhein
           organization_url: https://www.hs-niederrhein.de/sozialwesen/trialogle/
@@ -371,12 +371,12 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2018-11-01'
-          description: '
-              *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023 und 2024.
-              *	Schulungen in den Bereichen Kommunikation, Rhetorik, Feedback und Öffentlichkeitsarbeit.
-              *	Korrespondenzen als Bildungsbotschafter während Auswahlwochenenden für künftige Stipendiat_innen.
-              *	Teilnahme an Seminaren zu den Themen „Krankheit in Literatur, Film und Kunst“, sowie an virtuellen Kolloquien zu „Verbesserung der Arbeit im Ehrenamt“, „UN-Sicherheitsrat“, „Open Science“ und „Umweltethik im Anthropozän“.
-              *	Teilnahme an einem dreiwöchigen Intensivsprachkurs Spanisch (A2).'
+          description: |2-
+            *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023 und 2024.
+            *	Schulungen in den Bereichen Kommunikation, Rhetorik, Feedback und Öffentlichkeitsarbeit.
+            *	Korrespondenzen als Bildungsbotschafter während Auswahlwochenenden für künftige Stipendiat_innen.
+            *	Teilnahme an Seminaren zu den Themen „Krankheit in Literatur, Film und Kunst“, sowie an virtuellen Kolloquien zu „Verbesserung der Arbeit im Ehrenamt“, „UN-Sicherheitsrat“, „Open Science“ und „Umweltethik im Anthropozän“.
+            *	Teilnahme an einem dreiwöchigen Intensivsprachkurs Spanisch (A2).
           icon: 
           organization: Studienstiftung des dt. Volkes e.V.
           organization_url: https://www.studienstiftung.de/
@@ -385,11 +385,11 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
-          description: '
+          description: |2-
               *	Für das landesweit einzigartige Erstsemester-Einführungsprogramm: „Wie geht psychologische Wissenschaft?“
               *	Koordination, Durchführung, Evaluation und Weiterentwicklung des Einführungsprogramms in engem Austausch mit Department.
               *	Begleitung von 60 Erstsemesterstudierenden durch den wissenschaftlich-psychologischen Erkenntnis-Gewinnungsprozess.
-              *	Schnittstellenkommunikation zwischen Institut und Fachschaft in der verschränkten Umsetzung des Programms.'
+              *	Schnittstellenkommunikation zwischen Institut und Fachschaft in der verschränkten Umsetzung des Programms.
           icon: 
           organization: Universität zu Köln
           organization_url: https://www.uni-koeln.de/

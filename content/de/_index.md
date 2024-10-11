@@ -270,8 +270,8 @@ sections:
           title: Systemisches Coaching & Changemanagement (in Ausbildung)
           url: ''
         - certificate_url: ''
-          date_end: '2024-01-31'
-          date_start: ''
+          date_end: ''
+          date_start: '2024-01-31'
           description: ''
           icon: 
           organization: Zentrum Gender Studies in Köln (GeStiK)

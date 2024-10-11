@@ -269,8 +269,8 @@ sections:
           title: Systemic Coaching & Changemanagement (in training)
           url: ''
         - certificate_url: ''
-          date_end: '2024-01-31'
-          date_start: ''
+          date_end: ''
+          date_start: '2024-01-31'
           description: ''
           icon: 
           organization: Center for Gender Studies in Cologne (GeStiK)

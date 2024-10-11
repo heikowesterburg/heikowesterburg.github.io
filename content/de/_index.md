@@ -37,7 +37,7 @@ sections:
           company_url: 'https://www.hf.uni-koeln.de/41478'
           company_logo: 
           location: Köln
-          date_start: '2024-07-10'
+          date_start: '2024-10-07'
           date_end: ''
           description: |2-
               Aufgaben:
@@ -171,58 +171,85 @@ sections:
       title: Ehrenamt
       date_format: Jan 2006
       items:
-        - title: Nationalkoordination | Deutschland
-          company: Mind the Mind | Eine EFPSA Social Impact Initiative 
+        - title: Data Management Responsible in Social Impact Initiative (SII) 
+          company: Europäische Föderation der Psychologiestudierendenvereinigungen (EFPSA) 
           company_url: 'https://efpsa.org/services/#social-impact-initiative'
           company_logo: 
-          location: Köln
-          date_start: '2022-10-01'
+          location: remote, europaweit
+          date_start: '2024-09-01'
           date_end: ''
           description: |2-
               Aufgaben:
-              * Koordination, Supervision und Begleitung eines Teams insgesamt 37 lokaler Koordinator_innen aus 23 deutschen Städten bei ihren Aufgaben; Monitoring von landesweit insgesamt mehr als 500 Freiwilligen (Volunteers).
-              * Planung und Leitung monatlicher Treffen mit den lokalen Koordinator_innen zwecks Monitoring und Beratung über den Fortschritt der Kampagne.
-              * Straffung organisationaler Prozesse hinsichtlich Schnittstellenkommunikation und Fortschrittsdokumentation.
-              * Unterstützung der lokalen Koordinator_innen bei der Übersetzung von Materialien, der Kontaktaufnahme mit Institutionen, der Werbung für die Kampagne, der Akquise von Freiwilligen, der Organisation von Workshop-Trainings und Psychopathologievorlesungen sowie der Supervision des lokalen und landesweiten Evaluationsprozesses.
-              * Überprüfung monatlicher Feedback-Berichte der lokalen Koordinator_innen an den Dachverband über den Fortschritt der Kampagne.
-              * Schulung von 120 Freiwilligen zwecks Qualifikation zur Durchführung von Kampagnen-Workshops und im Umgang mit herausfordernden Classroom-Situationen.
-              * Veröffentlichung eines fünfseitigen Artikels in Report Psychologie, der Zeitschrift des Berufsverbands Deutscher Psycholog_innen.
-              * Mediationsanaloge Gesprächsführung zwischen lokalen Koordinator_innen, Freiwilligen und Mitarbeiter_innn des Dachverbands bei Differenzen zwecks Stärkung des Zusammenhalts zwischen allen an der Kampagne beteiligten Statusgruppen.
-        - title: Lokalkoordination | Deutschland, Köln
+              * Datenmanagement aller psychologischen Kampagnen der SII des Dachverbands und Beratung hinsichtlich Einhaltung der DSGVO.
+              *	Aufbau und Optimierung internationaler Datenmanagement- und Forschungsinfrastruktur.
+              *	Analyse und Charting von Evaluationsdaten ehrenamtlich engagierter Volunteers sowie rezipierender Adressat_innen.
+              *	Vorbereitung und Manuskriptgestaltung von Publikationen zu Charakteristika und Auswirkungen der Dachverbandsinitiativen.
+              *	Gestaltung, Monitoring und Streamlining interner Evaluationsprozesse.
+        - title: Mitglied der Kommission für Forschung und Förderung des wissenschaftlichen Nachwuchses
+          company: Universität zu Köln | Department Psychologie 
+          company_url: 'https://www.hf.uni-koeln.de/39530'
+          company_logo: 
+          location: Köln
+          date_start: '2023-10-01'
+          date_end: '2024-03-31'
+          description: |2-
+              Aufgaben:
+              * Teilnahme an Kommissionssitzungen mit dem Ziel, der Geschäftsführenden Direktion Vorschläge zu Koordination der Forschungsarbeit, Verbesserung der Drittmitteleinwerbung und Zusammenarbeit mit anderen Fächern zur Förderung des wissenschaftlichen Nachwuchses zu unterbreiten.
+              *	Prüfung eingereichter Arbeiten und subsequente Abstimmung zur Vergabe des Masterarbeitspreises Psychologie 2023.
+        - title: National Coordinator | Mind the Mind Germany
+          company: Mind the Mind | Eine EFPSA Social Impact Initiative 
+          company_url: 'https://efpsa.org/services/#social-impact-initiative'
+          company_logo: 
+          location: remote | deutschland- und europaweit
+          date_start: '2022-09-01'
+          date_end: '2024-08-31'
+          description: |2-
+              Aufgaben:
+              * Leitung und Begleitung von 23 (2022) bzw. 37 (2023) köpfigen Teams aus 18 (2022) bzw. 23 (2023) Städten.
+              *	Monatliche Treffen mit Teammitgliedern zur Supervision und kollegialen Beratung über Kampagnenfortschritte.
+              *	Monitoring und Straffung organisatorischer Abläufe hinsichtlich Schnittstellenkommunikation zwischen Team und Dachverband.
+              *	Unterstützung der Lokalkoordinator_innen u.a. bei Materialübersetzung, Kontaktaufnahme zu Institutionen, Kampagnenwerbung, Freiwilligen-Akquise sowie Organisation von Trainings und Psychopathologie-Vorlesungen.
+              *	Sichtung und Feedback monatlicher Berichte der Lokalkoordinator_innen über den Fortschritt der Kampagne.
+              *	Schulung von 200 Freiwilligen (mehr als 30 Prozent der landesweit aktiven Freiwilligen) für Workshop-Referent_innentätigkeiten.
+              *	Schulung von 20 Lokalkoordinator_innen zur eigenverantwortlichen Durchführung von Trainings (Train the Trainer-Ansatz).
+              *	Publikation eines Artikels in Report Psychologie, der Zeitschrift des Berufsverbands Deutscher Psycholog_innen.
+              *	Mediationsanaloge Gesprächsbegleitung im Falle konfliktärer Situationen zwischen Statusgruppen zur zukunfts- und lösungsorientierten Bearbeitung von Anliegen und Interessen zwecks Stärkung des Zusammenhalts zwischen allen Beteiligten.
+        - title: Local Coordinator | Mind the Mind Germany, Köln
           company: Mind the Mind | Eine EFPSA Social Impact Initiative 
           company_url: 'https://mindthemind-germany.efpsa.org/'
           company_logo: 
           location: Köln
-          date_start: '2020-10-01'
-          date_end: '2021-07-31'
+          date_start: '2020-09-01'
+          date_end: '2021-08-31'
           description: |2-
               Aufgaben:
-              * Akquise, Koordination, Supervision und Anleitung eines Teams von 60 lokalen Freiwilligen in Köln, den Standort neu begründend.
-              * Korrespondenz mit Schulen und Organisationen Terminvereinbarung für 30 Workshops mit insgesamt 600 Teilnehmern, inklusive anschließender Supervision der Freiwilligenerfahrungen.
-              * Bereitstellung von Materialien, Richtlinien und Informationen, einschließlich Aufgabenverteilung und Planung von Schulungen für die Freiwilligen
-              * Akquise lokaler Professor_innen und Expert_innen zur Durchführung inhaltlicher Schulungen zu prävalenten psychischen Störungen für die Freiwilligen.
-        - title: Studentische Vertretung
+              *	Erstmalige Instanziierung des Standorts durch Akquise, Koordination und Begleitung eines Teams aus 60 Freiwilligen.
+              *	Korrespondenzen mit Schulen zur Terminvereinbarung von ca. 30 Workshops mit insg. ca. 600 Teilnehmenden.
+              *	Versorgung der Freiwilligen mit Materialien, Richtlinien und Informationen; Aufgabendelegation und Planung von Trainings.
+              *	Akquise von Professor_innen zur Durchführung gesonderter Psychopathologie-Vorlesungen zur Schulung der Volunteers.
+        - title: Ordentlich gewähltes Mitglied (2018 – 2024) | Vorstand (2019 – 2020)
           company: Fachschaftsrat Psychologie | Universität zu Köln
           company_url: 'https://blog.uni-koeln.de/fs-psycho/'
           company_logo:
           location: Köln
           date_start: '2018-11-01'
-          date_end: ''
+          date_end: '2024-09-30'
           description: |2-
               Aufgaben:
-              * Moderation von *Round Tables* mit Studierenden- und Fachbereichsvertretungen zur Verbesserung der externen Kommunikation in sensiblen Vertrauensfragen und zwecks Stabilisierung einer konstruktiven Atmosphäre zwischen beteiligten Statusgruppen.
-              * Entwicklung einer Social-Media-Strategie und Produktion von Inhalten auf Instagram und YouTube, die zu einem Anstieg der Follower um 400 Prozent und insgesamt über 2.000 Views führten und damit Alleinstellungsmerkmale im deutschlandweiten Wettbewerb um die Studierbarkeit des Studiums am Fachbereich Psychologie der Universität zu Köln schufen.
-              * Betreuung, Gestaltung und Neugestaltung des Internetauftritts der Fachschaft Psychologie.
-              * Teilnahme an regelmäßigen Fachbereichssitzungen, Förderung des Austausches zwischen Professor_innenen- und Studierendenschaft.
-              * Durchführung einer Umfrage zur Arbeitsbelastung und Zufriedenheit der Studierenden, einschließlich Korrespondenz mit dem Fachbereich, um Lösungen zur Verbesserung des Wohlbefindens und der psychischen Gesundheit der Studierenden zu erarbeiten.
-              * Organisation und Beaufsichtigung zahlreicher studentisch organisierter Veranstaltungen (Abschlussfeier, Sommerfest, Departmenttag, Vollversammlung der Fachschaft) mit insgesamt mehr als 2000 Teilnehmenden.
-              * Betreuung einer Gruppe von 30 Freiwilligen als Vorstand (19.11. - 20.10.), inklusive Organisation wöchentlicher Treffen und Kontrollbesprechungen.
+              *	Mediationsanaloge Moderation eines Round Tables mit Studierenden- und Institutsvertretungen zur Bearbeitung von Vertrauensthemen zwecks Stärkung einer konstruktiven Atmosphäre zwischen Department und Studierenden.
+              *	Entwicklung einer Social-Media-Strategie und Produktion von PR-Inhalten, mit subsequentem Anstieg der Reichweite um 400% und insgesamt über 2500 Aufrufen, somit ein Alleinstellungsmerkmal in DE-weiter Platzierung hinsichtlich Sichtbarkeit und Einblicke in die Studierbarkeit der Psychologie an der Universität zu Köln schaffend.
+              *	Redaktionelle Verantwortung und Neugestaltung des Internetauftritts der Fachschaft Psychologie Köln.
+              *	Teilnahme an regelmäßigen Departmentversammlungen zur Förderung des studentischen Austauschs mit Professor_innen und akademischem Mittelbau sowie zur Interessensvertretung der Studierenden.
+              *	Konstruktion, Erhebung, Auswertung und Charting einer Umfrage zu Arbeitsbelastung und Zufriedenheit der Studierenden, einschließlich Korrespondenz mit dem Institut zur Entwicklung von Lösungen zur Schaffung bzw. Sammlung von Angeboten zur Verbesserung des Wohlbefindens und psychischer Gesundheit der Studierenden während der COVID-19-Pandemie.
+              *	Leitende Organisation, Supervision und Evaluation mehrerer, studentisch organisierter Veranstaltungsformate (Abschlussfeiern, Sommerfeste, Departmenttage, Vollversammlungen der Fachschaft) mit insgesamt weit über 2000 Teilnehmenden.
+              *	Begleitung einer Gruppe von 30 Freiwilligen als Vorstandsmitglied, inkl. Moderation wöchentlicher Treffen, Teamentwicklungsmaßnahmen und individuellen Mitgliedsgesprächen.
+              *	Ansprechperson für Anliegen von Studierenden im Beratungsteam.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Errungen&shy;schaften'
+      title: 'Qualifikationen'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -320,22 +347,53 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
+          date_end: '2024-07-31' 
+          date_start: '2023-11-28'
+          description: |2-
+              *	Gestaltung interaktiver, psychologischer Themenabende: „Beyond the Binary | Let’s Talk About Queer Mental Health“.
+          icon: 
+          organization: Automoes Queerreferat (AQUK) | Universität zu Köln
+          organization_url: https://aquk.uni-koeln.de/home
+          title: Referent
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-04-30' 
+          date_start: '2023-06-01'
+          description: |2-
+              *	Expertenbeiträge für „Trialogische Lehre in virtuellen studentischen Lernumgebungen“ für Studierende der Sozialen Arbeit.
+              *	2024 | „Psychische Gesundheit am Arbeitsplatz mit besonderem Fokus auf Situationen LSBTIQ*-Arbeitnehmer_innen“.
+              *	2023 | „Entstigmatisierung weiterdenken: Spannungsfelder von Kampagnenarbeit, Fachverantwortung und Aktivismus“.
+          icon: 
+          organization: Hochschule Niederrhein
+          organization_url: https://www.hs-niederrhein.de/sozialwesen/trialogle/
+          title: Externer Referent
+          url: ''
+        - certificate_url: ''
           date_end: ''
           date_start: '2018-11-01'
-          description: ''
+          description: |2-
+              *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023 und 2024.
+              *	Schulungen in den Bereichen Kommunikation, Rhetorik, Feedback und Öffentlichkeitsarbeit.
+              *	Korrespondenzen als Bildungsbotschafter während Auswahlwochenenden für künftige Stipendiat_innen.
+              *	Teilnahme an Seminaren zu den Themen „Krankheit in Literatur, Film und Kunst“, sowie an virtuellen Kolloquien zu „Verbesserung der Arbeit im Ehrenamt“, „UN-Sicherheitsrat“, „Open Science“ und „Umweltethik im Anthropozän“.
+              *	Teilnahme an einem dreiwöchigen Intensivsprachkurs Spanisch (A2).
           icon: 
           organization: Studienstiftung des dt. Volkes e.V.
           organization_url: https://www.studienstiftung.de/
-          title: Stipendiat | Bildungsbotschafter auf Auswahlseminaren | Ehrenamtliche Referententätigkeit
+          title: Stipendiat | Bildungsbotschafter | Fachreferent
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2020-12-01'
-          description: 
+          description: |2-
+              *	Für das landesweit einzigartige Erstsemester-Einführungsprogramm: „Wie geht psychologische Wissenschaft?“
+              *	Koordination, Durchführung, Evaluation und Weiterentwicklung des Einführungsprogramms in engem Austausch mit Department.
+              *	Begleitung von 60 Erstsemesterstudierenden durch den wissenschaftlich-psychologischen Erkenntnis-Gewinnungsprozess.
+              *	Schnittstellenkommunikation zwischen Institut und Fachschaft in der verschränkten Umsetzung des Programms. 
           icon: 
           organization: Universität zu Köln
           organization_url: https://www.uni-koeln.de/
-          title: Universitätspreis 2020 // Lehre und Studium
+          title: Universitätspreis 2020 in der Kategorie Studium und Lehre
           url: 'https://www.youtube.com/watch?v=pV_CNCYAVss'
     design:
       columns: '2' 

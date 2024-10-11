@@ -46,7 +46,7 @@ education:
     - course: Systemic Coaching and Change Management
       institution: INeKO | Institute at the University of Cologne
       year: 2025
-    - course: Certified mediator
+    - course: Certified Mediator
       institution: INeKO | Institute at the University of Cologne
       year: 2023
     - course: B.Sc. Psychology

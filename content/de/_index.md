@@ -533,11 +533,11 @@ sections:
       title: Schreiben
       subtitle:
       text: |-
-        Sie können mir gerne eine E-Mail schicken oder über das Buchungstool ein unverbindliches Meeting vereinbaren. Ich freue mich!
+        Schreiben Sie mir gerne eine E-Mail mit Ihrem Anliegen. Ich freue mich darauf!
       # Contact (add or remove contact options as necessary)
       email: heiko.westerburg@outlook.de
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/heiko-westerburg/15min'
+      #appointment_url: ''
       #address:
        # street: 450 Serra Mall
        # city: Stanford

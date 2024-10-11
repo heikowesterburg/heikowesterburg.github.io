@@ -41,7 +41,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Extracurricular quarter-time position for the design of project proposals on volunteer research and collaboration in the preparation of meta-analyses and systematic reviews of the chair.
+              * Extraordinary quarter-time position for the design of project proposals on volunteer research and collaboration in the preparation of meta-analyses and systematic reviews of the chair.
               * Implemented a teaching assignment of 2 contact hours per week during WS24/25 for an M.Sc. colloquium on volunteer, psychotherapeutic, prevention, field and longitudinal research.
               * Assisted in organization, data management and other administrative fields of the chair.
         - title: Co-lecturer

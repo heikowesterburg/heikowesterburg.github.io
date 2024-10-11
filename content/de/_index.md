@@ -33,7 +33,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Wissenschaftlicher Mitarbeiter
-          company: Universität zu Köln | Department Psychologie | Professur für Klinische Psychologie und empirisch-quantitative Tiefenpsychologie
+          company: Universität zu Köln | Department Psychologie | Professur für Klinische Psychologie und empirisch-quantitative Tiefenpsychologie, Jun.-Prof. Dr. Johannes C. Ehrenthal
           company_url: 'https://www.hf.uni-koeln.de/41478'
           company_logo: 
           location: Köln

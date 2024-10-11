@@ -23,8 +23,6 @@ role: M.Sc. Psychologie (in Ausbildung) | Geprüfter Mediator
 organizations:
   - name: Universität zu Köln
     url: https://www.uni-koeln.de/
-  - name: IDA | Institut für Diversity- & Antidiskriminierungsforschung
-    url: https://www.diversity-institut.info/
   - name: INeKO | Institut an der Universität zu Köln
     url: https://ineko-cologne.com/
 
@@ -33,9 +31,9 @@ bio: Meine Forschungsinteressen umfassen politische Polarisierung, Diversity und
 
 # Interests to show in About widget
 interests:
-  - Politische Polarisierung
-  - Kommunikation und Mediation
+  - Psychotherapie- und Ehrenamtsforschung
   - Diversity und Antidiskriminierung
+  - Kommunikation und Mediation
   - Open und Meta-Science 
   - Entstigmatisierung psychischer Störungen
 
@@ -43,13 +41,13 @@ interests:
 education:
   title: Qualifikationen
   courses:
-    - course: MSc Psychologie (in Ausbildung)
+    - course: M.Sc. Psychologie (in Ausbildung)
       institution: Universität zu Köln
       year: 2024
     - course: Geprüfter Mediator
       institution: INeKO | Institut an der Universität zu Köln
       year: 2023
-    - course: BSc Psychologie | 1.5
+    - course: B.Sc. Psychologie
       institution: Universität zu Köln
       year: 2022
 

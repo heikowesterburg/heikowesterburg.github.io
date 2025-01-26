@@ -41,8 +41,9 @@ sections:
           date_end: ''
           description: |2-
               Aufgaben:
-              * Außerplanmäßige Viertel-Stelle zur Gestaltung von Projektanträgen zu Volunteer-Forschung sowie Mitarbeit in Vorbereitung von Meta-Analysen und systematischen Reviews des Lehrstuhls.
+              * Außerplanmäßige Viertel-Stelle zur Gestaltung von Projektanträgen zu Volunteer- und Entstigmatisierungs-Forschung sowie Mitarbeit in Vorbereitung von Meta-Analysen und systematischen Reviews des Lehrstuhls.
               *	Lehrauftrag im Umfang von 2SWS im WS24/25 für ein M.Sc. Kolloquium zu Ehrenamts-, Psychotherapeut_innen-, Präventions-, Feld- und Longitudinalforschung.
+              * Operative Betreuung von Qualifikationsarbeiten zur Erlangung des Grades M.Sc. Psychologie.
               *	Assistenz in Organisation, Datenmanagement und weiteren administrativen Feldern des Lehrstuhls.
         - title: Co-Dozent
           company: INeKO | Institut an der Universität zu Köln

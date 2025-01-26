@@ -147,8 +147,8 @@ social:
 highlight_name: true
 ---
 
-Ich bin angehender Psychologe, geprüfter Mediator, Traumahelfer und Entspannungscoach in Köln. Die Schwerpunkte meiner Arbeit liegen in Forschung und Anwendung psychologischen Wissens in den Bereichen politischer Psychologie und sozialer Kognition, Stress und Leistungsdruck, sowie Diversität und Antidiskriminierung.
+Als Psychologe und Mediator liegen die Schwerpunkte meiner Arbeit in Forschung und Anwendung psychologischen Wissens in den Bereichen Prävention und Psychotherapieforschung, Ehrenamt und Aktivismus, Kompetenzerwerb in helfenden Berufen, sozialer Kognition, Stress und Leistungsdruck, sowie Diversität und Antidiskriminierung.
 
-Als Referent überzeuge ich mit evidenzorientierten und praxisrelevanten Workshopkonzepten, zuletzt zu den Themen „Stress und Leistungsdruck im Studium“ für die Studienstiftung des deutschen Volkes sowie „Queer Mental Health“ für das Autonome Querreferat der Universität zu Köln. 
+Als Referent (er)arbeite ich mit evidenzorientierten und praxisrelevanten Workshopkonzepten, zuletzt zu den Themen „Stress und Leistungsdruck im Studium“ für die Studienstiftung des deutschen Volkes sowie „Queer Mental Health“ für das Autonome Querreferat der Universität zu Köln.
 
-In den diversen Tätigkeitsfeldern ist es mir ein essenzielles Anliegen, bei inhaltlich hoher Präzision und Aktualitätsorientierung wertschätzend, agil und auf Augenhöhe miteinander zu arbeiten.
+In den diversen Tätigkeitsfeldern ist es mir ein essenzielles Anliegen, bei inhaltlicher Präzision und Aktualitätsorientierung wertschätzend und auf Augenhöhe miteinander zu arbeiten. Die Integration von State-of-the-art Methoden und Inhalten, sowie wissenschaftliche Transparenz, bilden dabei fundamentale Prinzipien für sowohl wissenschaftliche als auch anwendungsorientierte Tätigkeiten.

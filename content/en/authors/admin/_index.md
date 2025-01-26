@@ -146,8 +146,8 @@ social:
 highlight_name: true
 ---
 
-I am a psychologist in training, certified mediator, trauma helper, and relaxation coach based in Cologne. My work focuses on research and application of psychological knowledge in the areas of political psychology and social cognition, stress and performance pressure, as well as diversity and anti-discrimination. 
+As a trained psychologist and certified mediator, my work focuses on research and application of psychological knowledge in the areas of prevention and psychotherapy research, volunteerism and activism, skill acquisition in helping professions, social cognition, stress and performance pressure, and diversity and anti-discrimination.
 
-As a speaker, I convince with evidence-oriented and practice-relevant workshop concepts, most recently on the topics of "Stress and pressure to perform during studies" for the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes) and "Queer Mental Health" for the Autonomous Queer Office (Autonomes Querreferat) of the University of Cologne. 
+As a speaker, I work with evidence-based and practice-oriented workshop concepts, most recently on the topics of “Stress and pressure to perform during studies” for the German Academic Scholarship Foundation and “Queer Mental Health” for the Autonomes Querreferat of the University of Cologne (AQUK).
 
-In these various fields of activity, it is essential for me to work together in an appreciative, agile and equal manner while maintaining a high level of precision and topicality.
+To me, it is an essential concern to work together in an appreciative and equal manner while maintaining a high level of precision and topicality. The integration of state-of-the-art methods and content, as well as scientific transparency, also form fundamental principles for both scientific and application-oriented activities.

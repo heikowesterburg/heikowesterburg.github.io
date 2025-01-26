@@ -33,7 +33,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: University of Cologne | Department Psychology | Chair of Clinical Psychology and Empirical-Quantitative Depth Psychology, Jun.-Prof. Dr. Johannes C. Ehrenthal
+          company: University of Cologne | Department Psychology | Chair of Clinical Psychology and Empirical-Quantitative Psychodynamic Psychotherapy, Jun.-Prof. Dr. Johannes C. Ehrenthal
           company_url: 'https://www.hf.uni-koeln.de/41478'
           company_logo: 
           location: Cologne

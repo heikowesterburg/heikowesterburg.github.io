@@ -202,7 +202,7 @@ sections:
           company_logo: 
           location: remote | Germany- and Europe-wide
           date_start: '2022-09-01'
-          date_end: '2024-08-31'
+          date_end: '2024-06-30'
           description: |2-
               Responsibilities included:
               * Managing and supporting 23 (2022) and 37 (2023) teams from 18 (2022) and 23 (2023) cities.
@@ -220,7 +220,7 @@ sections:
           company_logo: 
           location: Cologne
           date_start: '2020-09-01'
-          date_end: '2021-08-31'
+          date_end: '2021-06-30'
           description: |2-
               Responsibilities included:
               * First-time instantiation of the location by acquiring, coordinating and supporting a team of 60 volunteers.
@@ -381,7 +381,7 @@ sections:
           date_end: '2024-09-30'
           date_start: '2018-11-01'
           description: |
-            * Conceptualizing, adapting, facilitating and evaluating 90-minute interactive, psychological theme evenings on “Stress, burnout and resilience in studies” on welcome weekends for new scholarship holders in April 2022, 2023 and 2024.
+            * Conceptualizing, adapting, facilitating and evaluating 90-minute interactive, psychological theme evenings on “Stress, burnout and resilience in studies” on welcome weekends for new scholarship holders in April 2022, 2023, 2024, and May 2025.
             * Traversing training in the areas of communication, rhetoric, feedback and public relations.
             * Corresponding as educational ambassadors during selection weekends for future scholarship holders.
             * Participating in seminars on the topics of “Illness in literature, film and art”, as well as virtual colloquia on “Improving volunteer work”, “UN Security Council”, “Open Science” and “Environmental ethics in the Anthropocene”.
@@ -389,7 +389,7 @@ sections:
           icon: 
           organization: German Academic Scholarship Foundation
           organization_url: https://www.studienstiftung.de/
-          title: Scholar | Education ambassador | Speaker
+          title: Scholar | Education Ambassador | Speaker
           url: ''
         - certificate_url: ''
           date_end: ''

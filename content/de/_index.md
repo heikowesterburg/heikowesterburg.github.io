@@ -203,7 +203,7 @@ sections:
           company_logo: 
           location: remote | deutschland- und europaweit
           date_start: '2022-09-01'
-          date_end: '2024-08-31'
+          date_end: '2024-06-30'
           description: |2-
               Aufgaben:
               * Leitung und Begleitung von 23 (2022) bzw. 37 (2023) köpfigen Teams aus 18 (2022) bzw. 23 (2023) Städten.
@@ -221,7 +221,7 @@ sections:
           company_logo: 
           location: Köln
           date_start: '2020-09-01'
-          date_end: '2021-08-31'
+          date_end: '2021-06-30'
           description: |2-
               Aufgaben:
               *	Erstmalige Instanziierung des Standorts durch Akquise, Koordination und Begleitung eines Teams aus 60 Freiwilligen.
@@ -382,7 +382,7 @@ sections:
           date_end: '2024-09-30'
           date_start: '2018-11-01'
           description: |
-            *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023 und 2024.
+            *	Konzeption, Adaption, Moderation und Evaluation je 90-minütiger interaktiver, psychologischer Themenabende zu „Stress, Burnout und Resilienz im Studium“ an Willkommenswochenenden neuer Stipendiat_innen im April 2022, 2023, 2024 und Mai 2025.
             *	Schulungen in den Bereichen Kommunikation, Rhetorik, Feedback und Öffentlichkeitsarbeit.
             *	Korrespondenzen als Bildungsbotschafter während Auswahlwochenenden für künftige Stipendiat_innen.
             *	Teilnahme an Seminaren zu den Themen „Krankheit in Literatur, Film und Kunst“, sowie an virtuellen Kolloquien zu „Verbesserung der Arbeit im Ehrenamt“, „UN-Sicherheitsrat“, „Open Science“ und „Umweltethik im Anthropozän“.

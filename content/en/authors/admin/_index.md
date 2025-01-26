@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Psychology (in training) | Certified Mediator
+role: M.Sc. Psychology | Certified Mediator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ organizations:
     url: https://ineko-cologne.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political polarization, diversity and antidiscrimination, destigmatization of mental disorders.
+bio: My research interests include destigmatization of mental disorders, psychotherapy research, diversity and anti-discrimination as well as open & metascience.
 
 # Interests to show in About widget
 interests:
@@ -40,9 +40,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.Sc. Psychology (in training)
+    - course: M.Sc. Psychology 
       institution: University of Cologne
-      year: 2024
+      year: 2025
     - course: Systemic Coaching and Change Management
       institution: INeKO | Institute at the University of Cologne
       year: 2025
@@ -126,10 +126,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:heiko.westerburg@outlook.de'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/heikowes
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/heikowes.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: linkedin

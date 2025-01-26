@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.Sc. Psychologie (in Ausbildung) | Geprüfter Mediator
+role: M.Sc. Psychologie | Geprüfter Mediator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ organizations:
     url: https://ineko-cologne.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meine Forschungsinteressen umfassen politische Polarisierung, Diversity und Antidiskriminierung, Entstigmatisierung psychischer Störungen.
+bio: Meine Forschungsinteressen umfassen die Entstigmatisierung psychischer Störungen, Psychotherapieforschung, Diversity und Antidiskriminierung sowie Open- & Metascience.
 
 # Interests to show in About widget
 interests:
@@ -41,7 +41,7 @@ interests:
 education:
   title: Qualifikationen
   courses:
-    - course: M.Sc. Psychologie (in Ausbildung)
+    - course: M.Sc. Psychologie 
       institution: Universität zu Köln
       year: 2025
     - course: Systemischer Coach & Changemanager (in Ausbildung)
@@ -127,10 +127,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:heiko.westerburg@outlook.de'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/heikowes
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/heikowes.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: linkedin
